@@ -1,0 +1,1142 @@
+"Treatment","Tree","Bloc","Traitement","PlantingYear","Plot","Pruned","ApogeeBino","Apogee","Date","Cultivar","Row","Shoot","Score","exsudat","Length","croissance","Observation","Year","Subject","Time","ScoreFactor","Growing","Alive","Growth","Exsudat","Exsudate"
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,1,2,"non",0,"non",NA,"2018",1,-2016,"2","No",1,0,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,2,2,"Oui",0,"non",NA,"2018",1,-2016,"2","No",1,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,3,2,"non",0,"oui",NA,"2018",1,-2016,"2","Yes",1,1,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,4,2,"non",0,"non",NA,"2018",1,-2016,"2","No",1,0,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,5,2,"non",0,"non",NA,"2018",1,-2016,"2","No",1,0,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,6,1,"non",0,"non",NA,"2018",1,-2016,"1","No",1,0,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,7,2,"Oui",0,"non",NA,"2018",1,-2016,"2","No",1,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,8,2,"non",0,"oui",NA,"2018",1,-2016,"2","Yes",1,1,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,9,2,"non",0,"non",NA,"2018",1,-2016,"2","No",1,0,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,10,2,"non",0,"oui",NA,"2018",1,-2016,"2","Yes",1,1,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,11,2,"non",0,"oui",NA,"2018",1,-2016,"2","Yes",1,1,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,12,2,"Oui",0,"oui",NA,"2018",1,-2016,"2","Yes",1,1,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,13,2,"non",0,"oui",NA,"2018",1,-2016,"2","Yes",1,1,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,14,2,"non",0,"non",NA,"2018",1,-2016,"2","No",1,0,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,15,2,"non",0,"non",NA,"2018",1,-2016,"2","No",1,0,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,16,2,"non",0,"non",NA,"2018",1,-2016,"2","No",1,0,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,17,2,"non",0,"oui",NA,"2018",1,-2016,"2","Yes",1,1,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,18,3,"Oui",3,"oui",NA,"2018",1,-2016,"3","Yes",1,1,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,19,3,"Oui",3,"oui",NA,"2018",1,-2016,"3","Yes",1,1,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,20,2,"non",0,"oui",NA,"2018",1,-2016,"2","Yes",1,1,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,21,3,"Oui",4,"oui",NA,"2018",1,-2016,"3","Yes",1,1,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,22,3,"non",2,"oui",NA,"2018",1,-2016,"3","Yes",1,1,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,23,2,"non",0,"non",NA,"2018",1,-2016,"2","No",1,0,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2018-06-22,"Cortland",2,24,1,"non",0,"oui",NA,"2018",1,-2016,"1","Yes",1,1,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,1,3,"Oui",3,"Non",2019-07-05,"2019",1,-2015,"3","No",1,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,2,4,"Oui",10,"Oui",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,3,4,"Non",6,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,4,3,"Oui",4,"Oui",2019-07-05,"2019",1,-2015,"3","Yes",1,1,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,5,4,"Oui",10,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,6,4,"Non",4,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,7,4,"Oui",8,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,8,4,"Oui",4,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,9,2,"Oui",0,"Non",2019-07-05,"2019",1,-2015,"2","No",1,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,10,3,"Non",3,"Non",2019-07-05,"2019",1,-2015,"3","No",1,0,"Non",0
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,11,3,"Oui",4,"Non",2019-07-05,"2019",1,-2015,"3","No",1,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,12,4,"Oui",6,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,13,4,"Oui",9,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,14,4,"Oui",8,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,15,4,"Oui",13,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,16,4,"Oui",8,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,17,4,"Oui",9,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,18,4,"Oui",9,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,19,4,"Oui",10,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,20,2,"Oui",0,"Non",2019-07-05,"2019",1,-2015,"2","No",1,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,21,3,"Oui",2,"Non",2019-07-05,"2019",1,-2015,"3","No",1,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,22,4,"Oui",10,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,23,4,"Oui",11,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,24,4,"Oui",8,"MORT",2019-07-05,"2019",1,-2015,"4","Dead",0,0,"Oui",1
+"A",3,"I","témoin avec taille","2017","A.I","Yes","No","None",2019-07-05,"cortland",2,25,3,"Oui",3,"Non",2019-07-05,"2019",1,-2015,"3","No",1,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,1,3,"Oui",2,"non",NA,"2018",2,-2016,"3","No",1,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,2,3,"Oui",1.5,"non",NA,"2018",2,-2016,"3","No",1,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,3,2,"Oui",0,"oui",NA,"2018",2,-2016,"2","Yes",1,1,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,4,3,"Oui",3,"oui",NA,"2018",2,-2016,"3","Yes",1,1,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,5,3,"Oui",2.5,"non",NA,"2018",2,-2016,"3","No",1,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,6,2,"Oui",0,"non",NA,"2018",2,-2016,"2","No",1,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,7,2,"Oui",0,"oui",NA,"2018",2,-2016,"2","Yes",1,1,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,8,2,"non",0,"non",NA,"2018",2,-2016,"2","No",1,0,"Non",0
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,9,3,"Oui",2.5,"oui",NA,"2018",2,-2016,"3","Yes",1,1,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,10,3,"Oui",4,"oui",NA,"2018",2,-2016,"3","Yes",1,1,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,11,3,"Oui",4,"non",NA,"2018",2,-2016,"3","No",1,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,12,4,"Oui",3.5,"mort",NA,"2018",2,-2016,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,13,4,"Oui",7.5,"mort",NA,"2018",2,-2016,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,14,4,"Oui",4.5,"mort",NA,"2018",2,-2016,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,15,1,"Oui",0,"non",NA,"2018",2,-2016,"1","No",1,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,16,2,"Oui",0,"non",NA,"2018",2,-2016,"2","No",1,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,17,3,"Oui",4,"non",NA,"2018",2,-2016,"3","No",1,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,18,4,"Oui",2,"mort",NA,"2018",2,-2016,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,19,3,"Oui",2.5,"oui",NA,"2018",2,-2016,"3","Yes",1,1,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,20,2,"non",0,"non",NA,"2018",2,-2016,"2","No",1,0,"Non",0
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,21,2,"Oui",0,"oui",NA,"2018",2,-2016,"2","Yes",1,1,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,22,2,"Oui",0,"non",NA,"2018",2,-2016,"2","No",1,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2018-06-22,"Cortland",3,23,4,"Oui",6,"mort",NA,"2018",2,-2016,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,1,4,"Oui",4,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,2,2,"Oui",0,"Non",2019-07-05,"2019",2,-2015,"2","No",1,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,3,4,"Non",11,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Non",0
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,4,4,"Oui",13,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,5,4,"Oui",12,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,6,4,"Oui",7,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,7,4,"Oui",6,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,8,4,"Non",8,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Non",0
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,9,4,"Oui",6,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,10,4,"Oui",10,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,11,4,"Oui",8,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,12,4,"Oui",3,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,13,4,"Oui",10,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,14,4,"Oui",10,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,15,4,"Oui",5,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,16,4,"Oui",8,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,17,2,"Oui",0,"Non",2019-07-05,"2019",2,-2015,"2","No",1,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,18,4,"Oui",13,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,19,4,"Oui",14,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,20,4,"Oui",8,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,21,4,"Oui",7,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,22,4,"Oui",6,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,23,4,"Oui",5,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"B",6,"I","témoin sans taille","2017","B.I","No","No","None",2019-07-05,"cortland",3,24,4,"Oui",14,"MORT",2019-07-05,"2019",2,-2015,"4","Dead",0,0,"Oui",1
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,1,4,"Oui",4.5,"mort",NA,"2018",3,-2016,"4","Dead",0,0,"Oui",1
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,2,2,"non",0,"oui",NA,"2018",3,-2016,"2","Yes",1,1,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,3,2,"non",0,"oui",NA,"2018",3,-2016,"2","Yes",1,1,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,4,2,"non",0,"oui",NA,"2018",3,-2016,"2","Yes",1,1,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,5,2,"non",0,"non",NA,"2018",3,-2016,"2","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,6,4,"non",4.5,"mort",NA,"2018",3,-2016,"4","Dead",0,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,7,2,"non",0,"non",NA,"2018",3,-2016,"2","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,8,2,"non",0,"non",NA,"2018",3,-2016,"2","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,9,2,"non",0,"non",NA,"2018",3,-2016,"2","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,10,2,"non",0,"oui",NA,"2018",3,-2016,"2","Yes",1,1,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,11,4,"non",2.5,"mort",NA,"2018",3,-2016,"4","Dead",0,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,12,2,"non",0,"non",NA,"2018",3,-2016,"2","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,13,2,"non",0,"non",NA,"2018",3,-2016,"2","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,14,2,"non",0,"non",NA,"2018",3,-2016,"2","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,15,1,"Oui",0,"non",NA,"2018",3,-2016,"1","No",1,0,"Oui",1
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,16,1,"non",0,"oui",NA,"2018",3,-2016,"1","Yes",1,1,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,17,2,"non",0,"oui",NA,"2018",3,-2016,"2","Yes",1,1,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,18,4,"non",6,"mort",NA,"2018",3,-2016,"4","Dead",0,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,19,1,"non",0,"oui",NA,"2018",3,-2016,"1","Yes",1,1,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,20,2,"non",0,"oui",NA,"2018",3,-2016,"2","Yes",1,1,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,21,2,"non",0,"non",NA,"2018",3,-2016,"2","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,22,2,"non",0,"oui",NA,"2018",3,-2016,"2","Yes",1,1,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,23,2,"non",0,"non",NA,"2018",3,-2016,"2","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,24,1,"non",0,"oui",NA,"2018",3,-2016,"1","Yes",1,1,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2018-06-22,"Cortland",1,25,2,"Oui",0,"oui",NA,"2018",3,-2016,"2","Yes",1,1,"Oui",1
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,1,4,"Oui",9,"MORT",2019-07-05,"2019",3,-2015,"4","Dead",0,0,"Oui",1
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,2,4,"Oui",7,"MORT",2019-07-05,"2019",3,-2015,"4","Dead",0,0,"Oui",1
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,3,2,"Non",0,"Non",2019-07-05,"2019",3,-2015,"2","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,4,4,"Oui",8,"MORT",2019-07-05,"2019",3,-2015,"4","Dead",0,0,"Oui",1
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,5,4,"Oui",7,"MORT",2019-07-05,"2019",3,-2015,"4","Dead",0,0,"Oui",1
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,6,4,"Oui",2,"MORT",2019-07-05,"2019",3,-2015,"4","Dead",0,0,"Oui",1
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,7,4,"Oui",3,"MORT",2019-07-05,"2019",3,-2015,"4","Dead",0,0,"Oui",1
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,8,3,"Oui",3,"Non",2019-07-05,"2019",3,-2015,"3","No",1,0,"Oui",1
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,9,4,"Non",4,"MORT",2019-07-05,"2019",3,-2015,"4","Dead",0,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,10,2,"Non",0,"Non",2019-07-05,"2019",3,-2015,"2","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,11,3,"Non",4,"Non",2019-07-05,"2019",3,-2015,"3","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,12,3,"Non",2,"Non",2019-07-05,"2019",3,-2015,"3","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,13,3,"Non",1.5,"Non",2019-07-05,"2019",3,-2015,"3","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,14,4,"Non",3,"MORT",2019-07-05,"2019",3,-2015,"4","Dead",0,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,15,2,"Non",0,"Non",2019-07-05,"2019",3,-2015,"2","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,16,3,"Non",2,"Non",2019-07-05,"2019",3,-2015,"3","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,17,2,"Non",0,"Non",2019-07-05,"2019",3,-2015,"2","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,18,4,"Non",7,"MORT",2019-07-05,"2019",3,-2015,"4","Dead",0,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,19,4,"Non",1.5,"MORT",2019-07-05,"2019",3,-2015,"4","Dead",0,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,20,4,"Non",2,"MORT",2019-07-05,"2019",3,-2015,"4","Dead",0,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,21,2,"Non",0,"Non",2019-07-05,"2019",3,-2015,"2","No",1,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,22,3,"Oui",4,"Non",2019-07-05,"2019",3,-2015,"3","No",1,0,"Oui",1
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,23,4,"Non",5,"MORT",2019-07-05,"2019",3,-2015,"4","Dead",0,0,"Non",0
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,24,4,"Oui",8,"MORT",2019-07-05,"2019",3,-2015,"4","Dead",0,0,"Oui",1
+"C",10,"I","Apogee floraison avec taille","2011","C.I","Yes","Yes","Bloom",2019-07-05,"cortland",1,25,4,"Non",3.5,"MORT",2019-07-05,"2019",3,-2015,"4","Dead",0,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,1,2,"non",0,"oui",NA,"2018",4,-2016,"2","Yes",1,1,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,2,1,"non",0,"oui",NA,"2018",4,-2016,"1","Yes",1,1,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,3,2,"non",0,"oui",NA,"2018",4,-2016,"2","Yes",1,1,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,4,2,"non",0,"non",NA,"2018",4,-2016,"2","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,5,2,"non",0,"oui",NA,"2018",4,-2016,"2","Yes",1,1,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,6,1,"non",0,"non",NA,"2018",4,-2016,"1","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,7,2,"non",0,"non",NA,"2018",4,-2016,"2","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,8,3,"non",2,"oui",NA,"2018",4,-2016,"3","Yes",1,1,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,9,1,"non",0,"oui",NA,"2018",4,-2016,"1","Yes",1,1,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,10,2,"Oui",0,"non",NA,"2018",4,-2016,"2","No",1,0,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,11,2,"non",0,"non",NA,"2018",4,-2016,"2","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,12,3,"non",2,"non",NA,"2018",4,-2016,"3","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,13,2,"Oui",0,"oui",NA,"2018",4,-2016,"2","Yes",1,1,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,14,2,"non",0,"oui",NA,"2018",4,-2016,"2","Yes",1,1,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,15,2,"non",0,"non",NA,"2018",4,-2016,"2","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,16,2,"Oui",0,"oui",NA,"2018",4,-2016,"2","Yes",1,1,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,17,2,"non",0,"oui",NA,"2018",4,-2016,"2","Yes",1,1,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,18,2,"Oui",0,"non",NA,"2018",4,-2016,"2","No",1,0,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,19,2,"Oui",0,"non",NA,"2018",4,-2016,"2","No",1,0,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,20,2,"Oui",0,"non",NA,"2018",4,-2016,"2","No",1,0,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,21,3,"Oui",3,"oui",NA,"2018",4,-2016,"3","Yes",1,1,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,22,3,"Oui",2,"non",NA,"2018",4,-2016,"3","No",1,0,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,23,1,"non",0,"non",NA,"2018",4,-2016,"1","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,24,2,"non",0,"non",NA,"2018",4,-2016,"2","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2018-06-22,"Cortland",2,25,2,"non",0,"non",NA,"2018",4,-2016,"2","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,1,3,"Non",3,"Non",2019-07-05,"2019",4,-2015,"3","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,2,4,"Oui",4,"MORT",2019-07-05,"2019",4,-2015,"4","Dead",0,0,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,3,4,"Non",4,"MORT",2019-07-05,"2019",4,-2015,"4","Dead",0,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,4,2,"Oui",0,"Non",2019-07-05,"2019",4,-2015,"2","No",1,0,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,5,1,"Non",0,"Non",2019-07-05,"2019",4,-2015,"1","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,6,2,"Non",0,"Non",2019-07-05,"2019",4,-2015,"2","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,7,1,"Non",0,"Non",2019-07-05,"2019",4,-2015,"1","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,8,2,"Non",0,"Non",2019-07-05,"2019",4,-2015,"2","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,9,1,"Non",0,"Non",2019-07-05,"2019",4,-2015,"1","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,10,1,"Non",0,"Non",2019-07-05,"2019",4,-2015,"1","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,11,4,"Oui",7,"MORT",2019-07-05,"2019",4,-2015,"4","Dead",0,0,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,12,2,"Non",0,"Non",2019-07-05,"2019",4,-2015,"2","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,13,4,"Non",3,"MORT",2019-07-05,"2019",4,-2015,"4","Dead",0,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,14,3,"Non",3,"Non",2019-07-05,"2019",4,-2015,"3","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,15,1,"Oui",0,"Non",2019-07-05,"2019",4,-2015,"1","No",1,0,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,16,3,"Oui",3,"Non",2019-07-05,"2019",4,-2015,"3","No",1,0,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,17,2,"Non",0,"Non",2019-07-05,"2019",4,-2015,"2","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,18,1,"Oui",0,"Non",2019-07-05,"2019",4,-2015,"1","No",1,0,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,19,2,"Oui",0,"Non",2019-07-05,"2019",4,-2015,"2","No",1,0,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,20,2,"Non",0,"Non",2019-07-05,"2019",4,-2015,"2","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,21,1,"Non",0,"Non",2019-07-05,"2019",4,-2015,"1","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,22,2,"Oui",0,"Non",2019-07-05,"2019",4,-2015,"2","No",1,0,"Oui",1
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,23,2,"Non",0,"Non",2019-07-05,"2019",4,-2015,"2","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,24,2,"Non",0,"Non",2019-07-05,"2019",4,-2015,"2","No",1,0,"Non",0
+"D",5,"I","Apogee floraison sans taille","2017","D.I","No","Yes","Bloom",2019-07-05,"cortland",2,25,2,"Non",0,"Non",2019-07-05,"2019",4,-2015,"2","No",1,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,1,2,"Oui",0,"oui",NA,"2018",5,-2016,"2","Yes",1,1,"Oui",1
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,2,1,"non",0,"non",NA,"2018",5,-2016,"1","No",1,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,3,1,"non",0,"oui",NA,"2018",5,-2016,"1","Yes",1,1,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,4,2,"non",0,"non",NA,"2018",5,-2016,"2","No",1,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,5,1,"non",0,"oui",NA,"2018",5,-2016,"1","Yes",1,1,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,6,2,"Oui",0,"oui",NA,"2018",5,-2016,"2","Yes",1,1,"Oui",1
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,7,2,"Oui",0,"non",NA,"2018",5,-2016,"2","No",1,0,"Oui",1
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,8,2,"non",0,"oui",NA,"2018",5,-2016,"2","Yes",1,1,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,9,2,"non",0,"oui",NA,"2018",5,-2016,"2","Yes",1,1,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,10,2,"non",0,"oui",NA,"2018",5,-2016,"2","Yes",1,1,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,11,1,"non",0,"oui",NA,"2018",5,-2016,"1","Yes",1,1,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,12,3,"Oui",1.5,"oui",NA,"2018",5,-2016,"3","Yes",1,1,"Oui",1
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,13,1,"non",0,"oui",NA,"2018",5,-2016,"1","Yes",1,1,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,14,2,"non",0,"oui",NA,"2018",5,-2016,"2","Yes",1,1,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,15,1,"non",0,"oui",NA,"2018",5,-2016,"1","Yes",1,1,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,16,2,"non",0,"oui",NA,"2018",5,-2016,"2","Yes",1,1,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,17,2,"Oui",0,"non",NA,"2018",5,-2016,"2","No",1,0,"Oui",1
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,18,2,"non",0,"oui",NA,"2018",5,-2016,"2","Yes",1,1,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,19,2,"non",0,"oui",NA,"2018",5,-2016,"2","Yes",1,1,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2018-06-22,"Cortland",3,20,2,"non",0,"non",NA,"2018",5,-2016,"2","No",1,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,1,4,"Non",3,"MORT",2019-07-05,"2019",5,-2015,"4","Dead",0,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,2,3,"Non",2,"Non",2019-07-05,"2019",5,-2015,"3","No",1,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,3,3,"Non",3,"Non",2019-07-05,"2019",5,-2015,"3","No",1,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,4,4,"Non",2,"MORT",2019-07-05,"2019",5,-2015,"4","Dead",0,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,5,0,"Non",0,"Oui",2019-07-05,"2019",5,-2015,"0","Yes",1,1,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,6,4,"Oui",6,"MORT",2019-07-05,"2019",5,-2015,"4","Dead",0,0,"Oui",1
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,7,3,"Oui",2,"Non",2019-07-05,"2019",5,-2015,"3","No",1,0,"Oui",1
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,8,3,"Non",2,"Non",2019-07-05,"2019",5,-2015,"3","No",1,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,9,4,"Oui",2,"MORT",2019-07-05,"2019",5,-2015,"4","Dead",0,0,"Oui",1
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,10,0,"Non",0,"Oui",2019-07-05,"2019",5,-2015,"0","Yes",1,1,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,11,4,"Non",2,"MORT",2019-07-05,"2019",5,-2015,"4","Dead",0,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,12,4,"Non",2,"MORT",2019-07-05,"2019",5,-2015,"4","Dead",0,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,13,3,"Non",2,"Non",2019-07-05,"2019",5,-2015,"3","No",1,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,14,4,"Non",2,"MORT",2019-07-05,"2019",5,-2015,"4","Dead",0,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,15,4,"Non",2,"MORT",2019-07-05,"2019",5,-2015,"4","Dead",0,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,16,4,"Non",2,"MORT",2019-07-05,"2019",5,-2015,"4","Dead",0,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,17,4,"Oui",2,"MORT",2019-07-05,"2019",5,-2015,"4","Dead",0,0,"Oui",1
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,18,3,"Non",2,"Non",2019-07-05,"2019",5,-2015,"3","No",1,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,19,3,"Non",2,"Non",2019-07-05,"2019",5,-2015,"3","No",1,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,20,3,"Non",1,"Non",2019-07-05,"2019",5,-2015,"3","No",1,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,21,2,"Non",0,"Non",2019-07-05,"2019",5,-2015,"2","No",1,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,22,3,"Non",1,"Non",2019-07-05,"2019",5,-2015,"3","No",1,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,23,3,"Non",2,"Non",2019-07-05,"2019",5,-2015,"3","No",1,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,24,3,"Non",1,"Non",2019-07-05,"2019",5,-2015,"3","No",1,0,"Non",0
+"E",10,"I","Apogee symptomes avec taille","2017","E.I","Yes","Yes","Symptom",2019-07-05,"cortland",3,25,2,"Non",0,"Non",2019-07-05,"2019",5,-2015,"2","No",1,0,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,1,4,"Oui",5,"mort",NA,"2018",6,-2016,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,2,4,"Oui",4,"mort",NA,"2018",6,-2016,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,3,4,"non",10,"mort",NA,"2018",6,-2016,"4","Dead",0,0,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,4,2,"non",0,"oui",NA,"2018",6,-2016,"2","Yes",1,1,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,5,4,"Oui",16,"mort",NA,"2018",6,-2016,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,6,3,"non",7,"oui",NA,"2018",6,-2016,"3","Yes",1,1,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,7,4,"Oui",4,"mort",NA,"2018",6,-2016,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,8,3,"Oui",4,"oui",NA,"2018",6,-2016,"3","Yes",1,1,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,9,4,"Oui",5,"mort",NA,"2018",6,-2016,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,10,2,"non",0,"non",NA,"2018",6,-2016,"2","No",1,0,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,11,4,"non",7,"mort",NA,"2018",6,-2016,"4","Dead",0,0,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,12,2,"Oui",0,"non",NA,"2018",6,-2016,"2","No",1,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,13,2,"non",0,"oui",NA,"2018",6,-2016,"2","Yes",1,1,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,14,3,"Oui",3,"oui",NA,"2018",6,-2016,"3","Yes",1,1,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,15,2,"Oui",0,"non",NA,"2018",6,-2016,"2","No",1,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,16,4,"Oui",4,"mort",NA,"2018",6,-2016,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,17,4,"non",6,"mort",NA,"2018",6,-2016,"4","Dead",0,0,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,18,4,"Oui",5,"mort",NA,"2018",6,-2016,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,19,2,"Oui",0,"oui",NA,"2018",6,-2016,"2","Yes",1,1,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,20,4,"Oui",6,"mort",NA,"2018",6,-2016,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,21,2,"non",0,"oui",NA,"2018",6,-2016,"2","Yes",1,1,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,22,2,"Oui",0,"oui",NA,"2018",6,-2016,"2","Yes",1,1,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,23,2,"Oui",0,"oui",NA,"2018",6,-2016,"2","Yes",1,1,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,24,4,"non",8,"mort",NA,"2018",6,-2016,"4","Dead",0,0,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2018-06-22,"Cortland",1,25,2,"non",0,"non",NA,"2018",6,-2016,"2","No",1,0,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,1,1,"Oui",0,"Oui",2019-07-05,"2019",6,-2015,"1","Yes",1,1,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,2,2,"Oui",0,"Oui",2019-07-05,"2019",6,-2015,"2","Yes",1,1,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,3,4,"Oui",19,"MORT",2019-07-05,"2019",6,-2015,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,4,4,"Non",8,"MORT",2019-07-05,"2019",6,-2015,"4","Dead",0,0,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,5,4,"Oui",7,"MORT",2019-07-05,"2019",6,-2015,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,6,4,"Oui",7,"MORT",2019-07-05,"2019",6,-2015,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,7,4,"Oui",7,"MORT",2019-07-05,"2019",6,-2015,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,8,3,"Oui",5,"Non",2019-07-05,"2019",6,-2015,"3","No",1,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,9,1,"Non",0,"Non",2019-07-05,"2019",6,-2015,"1","No",1,0,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,10,3,"Non",2,"Non",2019-07-05,"2019",6,-2015,"3","No",1,0,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,11,4,"Oui",3,"MORT",2019-07-05,"2019",6,-2015,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,12,3,"Oui",5,"Non",2019-07-05,"2019",6,-2015,"3","No",1,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,13,1,"Oui",0,"Oui",2019-07-05,"2019",6,-2015,"1","Yes",1,1,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,14,4,"Oui",3,"MORT",2019-07-05,"2019",6,-2015,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,15,3,"Non",3,"Non",2019-07-05,"2019",6,-2015,"3","No",1,0,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,16,2,"Oui",0,"Oui",2019-07-05,"2019",6,-2015,"2","Yes",1,1,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,17,3,"Oui",2,"Non",2019-07-05,"2019",6,-2015,"3","No",1,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,18,3,"Oui",2,"Oui",2019-07-05,"2019",6,-2015,"3","Yes",1,1,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,19,2,"Oui",0,"Non",2019-07-05,"2019",6,-2015,"2","No",1,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,20,1,"Non",0,"Non",2019-07-05,"2019",6,-2015,"1","No",1,0,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,21,3,"Non",2,"Oui",2019-07-05,"2019",6,-2015,"3","Yes",1,1,"Non",0
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,22,4,"Oui",3,"MORT",2019-07-05,"2019",6,-2015,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,23,2,"Oui",0,"Oui",2019-07-05,"2019",6,-2015,"2","Yes",1,1,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,24,4,"Oui",15,"MORT",2019-07-05,"2019",6,-2015,"4","Dead",0,0,"Oui",1
+"F",8,"I","Apogee symptomes sans taille","2011","F.I","No","Yes","Symptom",2019-07-05,"cortland",1,25,4,"Oui",4,"MORT",2019-07-05,"2019",6,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,1,2,"Oui",0,"non",NA,"2018",7,-2016,"2","No",1,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,2,3,"Oui",1.5,"oui",NA,"2018",7,-2016,"3","Yes",1,1,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,3,2,"non",0,"oui",NA,"2018",7,-2016,"2","Yes",1,1,"Non",0
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,4,2,"non",0,"oui",NA,"2018",7,-2016,"2","Yes",1,1,"Non",0
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,5,3,"Oui",1.5,"non",NA,"2018",7,-2016,"3","No",1,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,6,3,"Oui",5,"non",NA,"2018",7,-2016,"3","No",1,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,7,3,"Oui",4.5,"oui",NA,"2018",7,-2016,"3","Yes",1,1,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,8,3,"Oui",4,"oui",NA,"2018",7,-2016,"3","Yes",1,1,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,9,2,"Oui",0,"non",NA,"2018",7,-2016,"2","No",1,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,10,2,"Oui",0,"oui",NA,"2018",7,-2016,"2","Yes",1,1,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,11,2,"Oui",0,"non",NA,"2018",7,-2016,"2","No",1,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,12,3,"Oui",4.5,"oui",NA,"2018",7,-2016,"3","Yes",1,1,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,13,2,"Oui",0,"non",NA,"2018",7,-2016,"2","No",1,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,14,3,"Oui",3.5,"oui",NA,"2018",7,-2016,"3","Yes",1,1,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,15,2,"Oui",0,"oui",NA,"2018",7,-2016,"2","Yes",1,1,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,16,3,"Oui",2.5,"non",NA,"2018",7,-2016,"3","No",1,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,17,3,"Oui",2,"non",NA,"2018",7,-2016,"3","No",1,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,18,2,"non",0,"non",NA,"2018",7,-2016,"2","No",1,0,"Non",0
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,19,3,"Oui",5.5,"oui",NA,"2018",7,-2016,"3","Yes",1,1,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,20,2,"Oui",0,"oui",NA,"2018",7,-2016,"2","Yes",1,1,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,21,4,"Oui",6,"mort",NA,"2018",7,-2016,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,22,3,"Oui",3,"oui",NA,"2018",7,-2016,"3","Yes",1,1,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,23,2,"non",0,"non",NA,"2018",7,-2016,"2","No",1,0,"Non",0
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,24,2,"Oui",0,"oui",NA,"2018",7,-2016,"2","Yes",1,1,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2018-06-22,"Cortland",3,25,3,"Oui",4,"oui",NA,"2018",7,-2016,"3","Yes",1,1,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,1,3,"Oui",4,"Non",2019-07-05,"2019",7,-2015,"3","No",1,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,2,4,"Oui",13.5,"Oui",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,3,4,"Oui",9,"Oui",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,4,3,"Oui",3,"Non",2019-07-05,"2019",7,-2015,"3","No",1,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,5,4,"Oui",5,"Oui",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,6,4,"Oui",9,"MORT",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,7,4,"Oui",16,"MORT",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,8,3,"Oui",4,"Non",2019-07-05,"2019",7,-2015,"3","No",1,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,9,4,"Oui",4,"MORT",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,10,3,"Oui",3,"Non",2019-07-05,"2019",7,-2015,"3","No",1,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,11,2,"Oui",0,"Non",2019-07-05,"2019",7,-2015,"2","No",1,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,12,4,"Oui",8,"MORT",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,13,4,"Oui",6,"MORT",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,14,3,"Oui",7,"Non",2019-07-05,"2019",7,-2015,"3","No",1,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,15,4,"Oui",8,"MORT",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,16,4,"Oui",11,"MORT",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,17,3,"Oui",4,"Non",2019-07-05,"2019",7,-2015,"3","No",1,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,18,4,"Non",7,"MORT",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Non",0
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,19,4,"Oui",8,"MORT",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,20,4,"Oui",7,"MORT",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,21,4,"Oui",8,"MORT",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,22,4,"Oui",5,"MORT",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,23,4,"Oui",12,"MORT",2019-07-05,"2019",7,-2015,"4","Dead",0,0,"Oui",1
+"A",12,"II","témoin avec taille","2017","A.II","Yes","No","None",2019-07-05,"cortland",3,24,3,"Oui",5,"Oui",2019-07-05,"2019",7,-2015,"3","Yes",1,1,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,1,3,"Oui",1,"oui",NA,"2018",8,-2016,"3","Yes",1,1,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,2,4,"non",2,"mort",NA,"2018",8,-2016,"4","Dead",0,0,"Non",0
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,3,3,"Oui",3,"oui",NA,"2018",8,-2016,"3","Yes",1,1,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,4,2,"Oui",0,"oui",NA,"2018",8,-2016,"2","Yes",1,1,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,5,4,"Oui",6,"mort",NA,"2018",8,-2016,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,6,4,"Oui",4.5,"mort",NA,"2018",8,-2016,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,7,3,"Oui",5,"oui",NA,"2018",8,-2016,"3","Yes",1,1,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,8,2,"Oui",0,"oui",NA,"2018",8,-2016,"2","Yes",1,1,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,9,4,"Oui",9.5,"mort",NA,"2018",8,-2016,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,10,3,"Oui",1.5,"oui",NA,"2018",8,-2016,"3","Yes",1,1,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,11,4,"non",4,"mort",NA,"2018",8,-2016,"4","Dead",0,0,"Non",0
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,12,4,"non",3,"mort",NA,"2018",8,-2016,"4","Dead",0,0,"Non",0
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,13,4,"non",4,"mort",NA,"2018",8,-2016,"4","Dead",0,0,"Non",0
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,14,2,"non",0,"oui",NA,"2018",8,-2016,"2","Yes",1,1,"Non",0
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,15,2,"non",0,"oui",NA,"2018",8,-2016,"2","Yes",1,1,"Non",0
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,16,2,"non",0,"non",NA,"2018",8,-2016,"2","No",1,0,"Non",0
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,17,2,"Oui",0,"non",NA,"2018",8,-2016,"2","No",1,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,18,4,"Oui",6,"mort",NA,"2018",8,-2016,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,19,4,"Oui",3,"mort",NA,"2018",8,-2016,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,20,3,"Oui",4,"oui",NA,"2018",8,-2016,"3","Yes",1,1,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,21,3,"Oui",6,"oui",NA,"2018",8,-2016,"3","Yes",1,1,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,22,4,"Oui",7,"mort",NA,"2018",8,-2016,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,23,4,"Oui",5,"mort",NA,"2018",8,-2016,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,24,2,"Oui",0,"oui",NA,"2018",8,-2016,"2","Yes",1,1,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2018-06-22,"Cortland",1,25,4,"Oui",8,"mort",NA,"2018",8,-2016,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,1,4,"Oui",14,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,2,4,"Oui",14.5,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,3,4,"Oui",9,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,4,4,"Oui",13,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,5,4,"Oui",10,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,6,4,"Oui",8,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,7,4,"Oui",7,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,8,4,"Oui",9,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,9,4,"Oui",6,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,10,4,"Oui",11,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,11,2,"Oui",0,"Non",2019-07-05,"2019",8,-2015,"2","No",1,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,12,3,"Oui",4,"Non",2019-07-05,"2019",8,-2015,"3","No",1,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,13,4,"Oui",11,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,14,3,"Oui",3,"Non",2019-07-05,"2019",8,-2015,"3","No",1,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,15,4,"Non",4,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Non",0
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,16,3,"Oui",6,"Non",2019-07-05,"2019",8,-2015,"3","No",1,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,17,4,"Non",9,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Non",0
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,18,4,"Oui",14,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,19,4,"Oui",12,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,20,4,"Oui",7,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,21,3,"Oui",6,"Oui",2019-07-05,"2019",8,-2015,"3","Yes",1,1,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,22,4,"Non",15,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Non",0
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,23,4,"Oui",14,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"B",22,"II","témoin sans taille","2011","B.II","No","No","None",2019-07-05,"cortland",1,24,4,"Oui",13,"MORT",2019-07-05,"2019",8,-2015,"4","Dead",0,0,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,1,4,"Oui",6,"mort",NA,"2018",9,-2016,"4","Dead",0,0,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,2,2,"non",0,"oui",NA,"2018",9,-2016,"2","Yes",1,1,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,3,2,"non",0,"non",NA,"2018",9,-2016,"2","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,4,4,"Oui",3,"mort",NA,"2018",9,-2016,"4","Dead",0,0,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,5,2,"Oui",0,"non",NA,"2018",9,-2016,"2","No",1,0,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,6,3,"Oui",1.5,"oui",NA,"2018",9,-2016,"3","Yes",1,1,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,7,2,"Oui",0,"oui",NA,"2018",9,-2016,"2","Yes",1,1,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,8,2,"non",0,"oui",NA,"2018",9,-2016,"2","Yes",1,1,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,9,3,"non",3,"oui",NA,"2018",9,-2016,"3","Yes",1,1,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,10,4,"Oui",5,"mort",NA,"2018",9,-2016,"4","Dead",0,0,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,11,4,"Oui",3,"mort",NA,"2018",9,-2016,"4","Dead",0,0,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,12,2,"non",0,"oui",NA,"2018",9,-2016,"2","Yes",1,1,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,13,4,"non",5,"mort",NA,"2018",9,-2016,"4","Dead",0,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,14,2,"non",0,"non",NA,"2018",9,-2016,"2","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,15,2,"Oui",0,"oui",NA,"2018",9,-2016,"2","Yes",1,1,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,16,2,"Oui",0,"oui",NA,"2018",9,-2016,"2","Yes",1,1,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,17,4,"non",2,"mort",NA,"2018",9,-2016,"4","Dead",0,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,18,2,"non",0,"oui",NA,"2018",9,-2016,"2","Yes",1,1,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,19,2,"Oui",0,"oui",NA,"2018",9,-2016,"2","Yes",1,1,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,20,3,"Oui",3,"oui",NA,"2018",9,-2016,"3","Yes",1,1,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,21,2,"Oui",0,"non",NA,"2018",9,-2016,"2","No",1,0,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2018-06-22,"Cortland",3,22,2,"non",0,"oui",NA,"2018",9,-2016,"2","Yes",1,1,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,1,2,"Oui",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,2,2,"Oui",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,3,3,"Oui",2,"Non",2019-07-05,"2019",9,-2015,"3","No",1,0,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,4,3,"Non",1,"Non",2019-07-05,"2019",9,-2015,"3","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,5,4,"Non",2,"MORT",2019-07-05,"2019",9,-2015,"4","Dead",0,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,6,3,"Non",1,"Non",2019-07-05,"2019",9,-2015,"3","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,7,3,"Non",1,"Non",2019-07-05,"2019",9,-2015,"3","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,8,2,"Non",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,9,2,"Oui",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,10,2,"Non",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,11,2,"Non",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,12,2,"Non",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,13,2,"Oui",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Oui",1
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,14,3,"Non",2,"Non",2019-07-05,"2019",9,-2015,"3","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,15,3,"Non",2,"Non",2019-07-05,"2019",9,-2015,"3","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,16,3,"Non",2,"Non",2019-07-05,"2019",9,-2015,"3","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,17,2,"Non",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,18,2,"Non",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,19,2,"Non",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,20,2,"Non",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,21,2,"Non",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,22,2,"Non",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,23,2,"Non",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Non",0
+"C",14,"II","Apogee floraison avec taille","2017","C.II","Yes","Yes","Bloom",2019-07-05,"cortland",3,24,2,"Non",0,"Non",2019-07-05,"2019",9,-2015,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,1,2,"non",0,"non",NA,"2018",10,-2016,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,2,2,"non",0,"oui",NA,"2018",10,-2016,"2","Yes",1,1,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,3,2,"non",0,"oui",NA,"2018",10,-2016,"2","Yes",1,1,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,4,2,"non",0,"oui",NA,"2018",10,-2016,"2","Yes",1,1,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,5,2,"non",0,"non",NA,"2018",10,-2016,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,6,1,"non",0,"non",NA,"2018",10,-2016,"1","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,7,2,"non",0,"non",NA,"2018",10,-2016,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,8,2,"non",0,"oui",NA,"2018",10,-2016,"2","Yes",1,1,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,9,2,"non",0,"non",NA,"2018",10,-2016,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,10,2,"non",0,"non",NA,"2018",10,-2016,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,11,2,"non",0,"non",NA,"2018",10,-2016,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,12,2,"non",0,"oui",NA,"2018",10,-2016,"2","Yes",1,1,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,13,2,"non",0,"non",NA,"2018",10,-2016,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,14,2,"non",0,"non",NA,"2018",10,-2016,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,15,2,"non",0,"non",NA,"2018",10,-2016,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,16,2,"non",0,"oui",NA,"2018",10,-2016,"2","Yes",1,1,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,17,1,"non",0,"non",NA,"2018",10,-2016,"1","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,18,2,"non",0,"oui",NA,"2018",10,-2016,"2","Yes",1,1,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,19,1,"non",0,"oui",NA,"2018",10,-2016,"1","Yes",1,1,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,20,1,"non",0,"oui",NA,"2018",10,-2016,"1","Yes",1,1,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,21,2,"non",0,"non",NA,"2018",10,-2016,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,22,3,"non",1.5,"oui",NA,"2018",10,-2016,"3","Yes",1,1,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,23,2,"non",0,"non",NA,"2018",10,-2016,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2018-06-22,"Cortland",3,24,2,"non",0,"non",NA,"2018",10,-2016,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,1,3,"Non",3,"Non",2019-07-05,"2019",10,-2015,"3","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,2,3,"Oui",4,"Non",2019-07-05,"2019",10,-2015,"3","No",1,0,"Oui",1
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,3,2,"Non",0,"Non",2019-07-05,"2019",10,-2015,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,4,2,"Non",0,"Non",2019-07-05,"2019",10,-2015,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,5,3,"Oui",1.5,"Non",2019-07-05,"2019",10,-2015,"3","No",1,0,"Oui",1
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,6,3,"Non",1,"Non",2019-07-05,"2019",10,-2015,"3","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,7,3,"Oui",3,"Non",2019-07-05,"2019",10,-2015,"3","No",1,0,"Oui",1
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,8,3,"Non",1,"Non",2019-07-05,"2019",10,-2015,"3","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,9,2,"Non",0,"Non",2019-07-05,"2019",10,-2015,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,10,3,"Oui",2,"Non",2019-07-05,"2019",10,-2015,"3","No",1,0,"Oui",1
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,11,2,"Oui",0,"Non",2019-07-05,"2019",10,-2015,"2","No",1,0,"Oui",1
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,12,3,"Non",3,"Non",2019-07-05,"2019",10,-2015,"3","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,13,3,"Non",1,"Non",2019-07-05,"2019",10,-2015,"3","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,14,1,"Non",0,"Non",2019-07-05,"2019",10,-2015,"1","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,15,3,"Non",4,"Non",2019-07-05,"2019",10,-2015,"3","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,16,3,"Non",2,"Non",2019-07-05,"2019",10,-2015,"3","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,17,2,"Non",0,"Non",2019-07-05,"2019",10,-2015,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,18,1,"Non",0,"Non",2019-07-05,"2019",10,-2015,"1","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,19,2,"Non",0,"Non",2019-07-05,"2019",10,-2015,"2","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,20,3,"Non",2,"Non",2019-07-05,"2019",10,-2015,"3","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,21,1,"Non",0,"Non",2019-07-05,"2019",10,-2015,"1","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,22,3,"Non",3,"Non",2019-07-05,"2019",10,-2015,"3","No",1,0,"Non",0
+"D",20,"II","Apogee floraison sans taille","2017","D.II","No","Yes","Bloom",2019-07-05,"cortland",3,23,3,"Oui",5,"Non",2019-07-05,"2019",10,-2015,"3","No",1,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,1,2,"non",0,"oui",NA,"2018",11,-2016,"2","Yes",1,1,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,2,1,"non",0,"oui",NA,"2018",11,-2016,"1","Yes",1,1,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,3,2,"non",0,"oui",NA,"2018",11,-2016,"2","Yes",1,1,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,4,2,"Oui",0,"oui",NA,"2018",11,-2016,"2","Yes",1,1,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,5,1,"non",0,"oui",NA,"2018",11,-2016,"1","Yes",1,1,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,6,1,"non",0,"oui",NA,"2018",11,-2016,"1","Yes",1,1,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,7,2,"non",0,"oui",NA,"2018",11,-2016,"2","Yes",1,1,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,8,4,"Oui",6.5,"mort",NA,"2018",11,-2016,"4","Dead",0,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,9,2,"non",0,"oui",NA,"2018",11,-2016,"2","Yes",1,1,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,10,2,"non",0,"oui",NA,"2018",11,-2016,"2","Yes",1,1,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,11,1,"non",0,"oui",NA,"2018",11,-2016,"1","Yes",1,1,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,12,1,"non",0,"oui",NA,"2018",11,-2016,"1","Yes",1,1,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,13,1,"Oui",0,"oui",NA,"2018",11,-2016,"1","Yes",1,1,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,14,1,"non",0,"non",NA,"2018",11,-2016,"1","No",1,0,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,15,4,"non",3,"mort",NA,"2018",11,-2016,"4","Dead",0,0,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,16,2,"Oui",0,"non",NA,"2018",11,-2016,"2","No",1,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,17,1,"non",0,"oui",NA,"2018",11,-2016,"1","Yes",1,1,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,18,2,"Oui",0,"oui",NA,"2018",11,-2016,"2","Yes",1,1,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,19,2,"Oui",0,"non",NA,"2018",11,-2016,"2","No",1,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,20,4,"Oui",3,"mort",NA,"2018",11,-2016,"4","Dead",0,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,21,2,"non",0,"oui",NA,"2018",11,-2016,"2","Yes",1,1,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,22,1,"non",0,"oui",NA,"2018",11,-2016,"1","Yes",1,1,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,23,2,"non",0,"oui",NA,"2018",11,-2016,"2","Yes",1,1,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2018-06-22,"Cortland",1,24,1,"Oui",0,"oui",NA,"2018",11,-2016,"1","Yes",1,1,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,1,4,"Non",6,"MORT",2019-07-05,"2019",11,-2015,"4","Dead",0,0,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,2,4,"Oui",3,"MORT",2019-07-05,"2019",11,-2015,"4","Dead",0,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,3,4,"Non",4,"MORT",2019-07-05,"2019",11,-2015,"4","Dead",0,0,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,4,4,"Non",6,"MORT",2019-07-05,"2019",11,-2015,"4","Dead",0,0,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,5,4,"Oui",8,"MORT",2019-07-05,"2019",11,-2015,"4","Dead",0,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,6,4,"Oui",6,"MORT",2019-07-05,"2019",11,-2015,"4","Dead",0,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,7,3,"Oui",5,"Non",2019-07-05,"2019",11,-2015,"3","No",1,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,8,4,"Oui",5,"MORT",2019-07-05,"2019",11,-2015,"4","Dead",0,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,9,4,"Oui",7,"MORT",2019-07-05,"2019",11,-2015,"4","Dead",0,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,10,3,"Oui",3,"Non",2019-07-05,"2019",11,-2015,"3","No",1,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,11,3,"Oui",3,"Non",2019-07-05,"2019",11,-2015,"3","No",1,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,12,3,"Non",5,"Non",2019-07-05,"2019",11,-2015,"3","No",1,0,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,13,3,"Non",3,"Non",2019-07-05,"2019",11,-2015,"3","No",1,0,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,14,4,"Oui",5,"MORT",2019-07-05,"2019",11,-2015,"4","Dead",0,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,15,2,"Non",0,"Non",2019-07-05,"2019",11,-2015,"2","No",1,0,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,16,3,"Non",3,"Non",2019-07-05,"2019",11,-2015,"3","No",1,0,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,17,3,"Non",2,"Non",2019-07-05,"2019",11,-2015,"3","No",1,0,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,18,4,"Non",5,"MORT",2019-07-05,"2019",11,-2015,"4","Dead",0,0,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,19,4,"Oui",10,"MORT",2019-07-05,"2019",11,-2015,"4","Dead",0,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,20,2,"Oui",0,"Non",2019-07-05,"2019",11,-2015,"2","No",1,0,"Oui",1
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,21,3,"Non",3,"Non",2019-07-05,"2019",11,-2015,"3","No",1,0,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,22,3,"Non",3,"Non",2019-07-05,"2019",11,-2015,"3","No",1,0,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,23,3,"Non",4,"Non",2019-07-05,"2019",11,-2015,"3","No",1,0,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,24,3,"Non",2,"Non",2019-07-05,"2019",11,-2015,"3","No",1,0,"Non",0
+"E",16,"II","Apogee symptomes avec taille","2011","E.II","Yes","Yes","Symptom",2019-07-05,"cortland",1,25,4,"Oui",7,"MORT",2019-07-05,"2019",11,-2015,"4","Dead",0,0,"Oui",1
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,1,2,"non",0,"non",NA,"2018",12,-2016,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,2,2,"non",0,"non",NA,"2018",12,-2016,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,3,2,"non",0,"non",NA,"2018",12,-2016,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,4,2,"non",0,"non",NA,"2018",12,-2016,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,5,2,"non",0,"non",NA,"2018",12,-2016,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,6,2,"non",0,"non",NA,"2018",12,-2016,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,7,1,"non",0,"non",NA,"2018",12,-2016,"1","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,8,2,"non",0,"non",NA,"2018",12,-2016,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,9,1,"non",0,"non",NA,"2018",12,-2016,"1","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,10,2,"non",0,"non",NA,"2018",12,-2016,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,11,2,"non",0,"non",NA,"2018",12,-2016,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,12,1,"non",0,"non",NA,"2018",12,-2016,"1","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,13,2,"Oui",0,"non",NA,"2018",12,-2016,"2","No",1,0,"Oui",1
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,14,2,"non",0,"oui",NA,"2018",12,-2016,"2","Yes",1,1,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,15,1,"non",0,"non",NA,"2018",12,-2016,"1","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,16,1,"non",0,"non",NA,"2018",12,-2016,"1","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,17,1,"non",0,"non",NA,"2018",12,-2016,"1","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,18,2,"non",0,"oui",NA,"2018",12,-2016,"2","Yes",1,1,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,19,2,"non",0,"non",NA,"2018",12,-2016,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,20,1,"non",0,"oui",NA,"2018",12,-2016,"1","Yes",1,1,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,21,2,"non",0,"non",NA,"2018",12,-2016,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,22,1,"non",0,"non",NA,"2018",12,-2016,"1","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2018-06-22,"Cortland",3,23,1,"non",0,"non",NA,"2018",12,-2016,"1","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,1,3,"Oui",2,"Non",2019-07-05,"2019",12,-2015,"3","No",1,0,"Oui",1
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,2,3,"Non",2,"Non",2019-07-05,"2019",12,-2015,"3","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,3,2,"Non",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,4,3,"Non",2,"Non",2019-07-05,"2019",12,-2015,"3","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,5,2,"Non",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,6,2,"Oui",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Oui",1
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,7,2,"Oui",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Oui",1
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,8,2,"Non",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,9,2,"Oui",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Oui",1
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,10,2,"Non",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,11,1,"Non",0,"Non",2019-07-05,"2019",12,-2015,"1","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,12,3,"Non",2,"Non",2019-07-05,"2019",12,-2015,"3","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,13,3,"Non",3,"Non",2019-07-05,"2019",12,-2015,"3","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,14,2,"Non",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,15,1,"Non",0,"Non",2019-07-05,"2019",12,-2015,"1","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,16,2,"Non",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,17,2,"Non",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,18,2,"Oui",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Oui",1
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,19,2,"Oui",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Oui",1
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,20,2,"Non",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,21,2,"Non",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,22,2,"Non",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,23,2,"Non",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,24,2,"Non",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Non",0
+"F",22,"II","Apogee symptomes sans taille","2017","F.II","No","Yes","Symptom",2019-07-05,"cortland",3,25,2,"Non",0,"Non",2019-07-05,"2019",12,-2015,"2","No",1,0,"Non",0
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,1,2,"non",0,"oui",NA,"2018",13,-2016,"2","Yes",1,1,"Non",0
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,2,4,"Oui",11,"mort",NA,"2018",13,-2016,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,3,4,"Oui",7,"mort",NA,"2018",13,-2016,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,4,2,"Oui",0,"oui",NA,"2018",13,-2016,"2","Yes",1,1,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,5,2,"non",0,"oui",NA,"2018",13,-2016,"2","Yes",1,1,"Non",0
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,6,4,"Oui",9,"mort",NA,"2018",13,-2016,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,7,4,"Oui",6.5,"mort",NA,"2018",13,-2016,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,8,1,"Oui",0,"oui",NA,"2018",13,-2016,"1","Yes",1,1,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,9,3,"Oui",3,"oui",NA,"2018",13,-2016,"3","Yes",1,1,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,10,4,"Oui",4,"mort",NA,"2018",13,-2016,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,11,4,"Oui",5,"mort",NA,"2018",13,-2016,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,12,2,"non",0,"oui",NA,"2018",13,-2016,"2","Yes",1,1,"Non",0
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,13,1,"non",0,"oui",NA,"2018",13,-2016,"1","Yes",1,1,"Non",0
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,14,4,"Oui",3,"mort",NA,"2018",13,-2016,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,15,2,"Oui",0,"oui",NA,"2018",13,-2016,"2","Yes",1,1,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,16,4,"Oui",8,"mort",NA,"2018",13,-2016,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,17,4,"Oui",8,"mort",NA,"2018",13,-2016,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,18,4,"Oui",7,"mort",NA,"2018",13,-2016,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,19,3,"Oui",5,"oui",NA,"2018",13,-2016,"3","Yes",1,1,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,20,4,"Oui",6,"mort",NA,"2018",13,-2016,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,21,3,"non",2,"oui",NA,"2018",13,-2016,"3","Yes",1,1,"Non",0
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,22,2,"non",0,"oui",NA,"2018",13,-2016,"2","Yes",1,1,"Non",0
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,23,4,"non",8,"mort",NA,"2018",13,-2016,"4","Dead",0,0,"Non",0
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,24,3,"Oui",2,"oui",NA,"2018",13,-2016,"3","Yes",1,1,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2018-06-22,"Cortland",1,25,1,"non",0,"oui",NA,"2018",13,-2016,"1","Yes",1,1,"Non",0
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,1,4,"Oui",8,"MORT",2019-07-05,"2019",13,-2015,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,2,4,"Oui",16,"MORT",2019-07-05,"2019",13,-2015,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,3,3,"Oui",3,"Non",2019-07-05,"2019",13,-2015,"3","No",1,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,4,3,"Oui",4,"Non",2019-07-05,"2019",13,-2015,"3","No",1,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,5,3,"Oui",4,"Non",2019-07-05,"2019",13,-2015,"3","No",1,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,6,3,"Oui",5,"Non",2019-07-05,"2019",13,-2015,"3","No",1,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,7,4,"Oui",11,"MORT",2019-07-05,"2019",13,-2015,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,8,3,"Oui",5,"Non",2019-07-05,"2019",13,-2015,"3","No",1,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,9,3,"Oui",5,"Non",2019-07-05,"2019",13,-2015,"3","No",1,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,10,3,"Oui",4,"Non",2019-07-05,"2019",13,-2015,"3","No",1,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,11,3,"Oui",6,"Non",2019-07-05,"2019",13,-2015,"3","No",1,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,12,4,"Oui",5,"MORT",2019-07-05,"2019",13,-2015,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,13,4,"Oui",4,"MORT",2019-07-05,"2019",13,-2015,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,14,3,"Oui",3,"Non",2019-07-05,"2019",13,-2015,"3","No",1,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,15,4,"Oui",9,"Non",2019-07-05,"2019",13,-2015,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,16,3,"Oui",4,"Non",2019-07-05,"2019",13,-2015,"3","No",1,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,17,3,"Oui",5,"Non",2019-07-05,"2019",13,-2015,"3","No",1,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,18,4,"Oui",4,"MORT",2019-07-05,"2019",13,-2015,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,19,3,"Oui",4,"Non",2019-07-05,"2019",13,-2015,"3","No",1,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,20,3,"Oui",3,"Non",2019-07-05,"2019",13,-2015,"3","No",1,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,21,3,"Oui",4,"Non",2019-07-05,"2019",13,-2015,"3","No",1,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,22,4,"Oui",10,"MORT",2019-07-05,"2019",13,-2015,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,23,4,"Oui",11,"MORT",2019-07-05,"2019",13,-2015,"4","Dead",0,0,"Oui",1
+"A",32,"III","témoin avec taille","2011","A.III","Yes","No","None",2019-07-05,"cortland",1,24,3,"Non",3,"Non",2019-07-05,"2019",13,-2015,"3","No",1,0,"Non",0
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,1,2,"Oui",0,"non",NA,"2018",14,-2016,"2","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,2,2,"Oui",0,"non",NA,"2018",14,-2016,"2","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,3,2,"Oui",0,"non",NA,"2018",14,-2016,"2","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,4,3,"Oui",2.5,"non",NA,"2018",14,-2016,"3","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,5,2,"non",0,"non",NA,"2018",14,-2016,"2","No",1,0,"Non",0
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,6,2,"Oui",0,"non",NA,"2018",14,-2016,"2","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,7,3,"non",1.5,"non",NA,"2018",14,-2016,"3","No",1,0,"Non",0
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,8,2,"Oui",0,"non",NA,"2018",14,-2016,"2","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,9,3,"Oui",1.5,"non",NA,"2018",14,-2016,"3","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,10,2,"non",0,"non",NA,"2018",14,-2016,"2","No",1,0,"Non",0
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,11,2,"non",0,"non",NA,"2018",14,-2016,"2","No",1,0,"Non",0
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,12,3,"Oui",2.5,"non",NA,"2018",14,-2016,"3","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,13,2,"non",0,"non",NA,"2018",14,-2016,"2","No",1,0,"Non",0
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,14,2,"Oui",0,"non",NA,"2018",14,-2016,"2","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,15,3,"Oui",2.5,"non",NA,"2018",14,-2016,"3","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,16,3,"non",2,"non",NA,"2018",14,-2016,"3","No",1,0,"Non",0
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,17,3,"Oui",3,"non",NA,"2018",14,-2016,"3","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,18,2,"Oui",0,"oui",NA,"2018",14,-2016,"2","Yes",1,1,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,19,2,"Oui",0,"non",NA,"2018",14,-2016,"2","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,20,2,"non",0,"non",NA,"2018",14,-2016,"2","No",1,0,"Non",0
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,21,2,"Oui",0,"oui",NA,"2018",14,-2016,"2","Yes",1,1,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2018-06-22,"Cortland",3,22,2,"non",0,"non",NA,"2018",14,-2016,"2","No",1,0,"Non",0
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,1,4,"Oui",15,"MORT",2019-07-05,"2019",14,-2015,"4","Dead",0,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,2,3,"Oui",3,"Oui",2019-07-05,"2019",14,-2015,"3","Yes",1,1,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,3,3,"Oui",5,"Oui",2019-07-05,"2019",14,-2015,"3","Yes",1,1,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,4,4,"Oui",11,"MORT",2019-07-05,"2019",14,-2015,"4","Dead",0,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,5,4,"Oui",9,"MORT",2019-07-05,"2019",14,-2015,"4","Dead",0,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,6,4,"Oui",7,"MORT",2019-07-05,"2019",14,-2015,"4","Dead",0,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,7,4,"Oui",8,"MORT",2019-07-05,"2019",14,-2015,"4","Dead",0,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,8,4,"Oui",7,"MORT",2019-07-05,"2019",14,-2015,"4","Dead",0,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,9,3,"Non",2,"Oui",2019-07-05,"2019",14,-2015,"3","Yes",1,1,"Non",0
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,10,3,"Oui",3,"Oui",2019-07-05,"2019",14,-2015,"3","Yes",1,1,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,11,4,"Oui",8,"MORT",2019-07-05,"2019",14,-2015,"4","Dead",0,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,12,4,"Oui",3,"MORT",2019-07-05,"2019",14,-2015,"4","Dead",0,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,13,2,"Oui",0,"Non",2019-07-05,"2019",14,-2015,"2","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,14,2,"Oui",0,"Non",2019-07-05,"2019",14,-2015,"2","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,15,3,"Oui",4,"Oui",2019-07-05,"2019",14,-2015,"3","Yes",1,1,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,16,4,"Oui",7,"MORT",2019-07-05,"2019",14,-2015,"4","Dead",0,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,17,2,"Oui",0,"Non",2019-07-05,"2019",14,-2015,"2","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,18,3,"Oui",3,"Non",2019-07-05,"2019",14,-2015,"3","No",1,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,19,3,"Non",2,"Non",2019-07-05,"2019",14,-2015,"3","No",1,0,"Non",0
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,20,4,"Oui",5,"MORT",2019-07-05,"2019",14,-2015,"4","Dead",0,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,21,4,"Oui",3,"MORT",2019-07-05,"2019",14,-2015,"4","Dead",0,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,22,4,"Oui",6,"MORT",2019-07-05,"2019",14,-2015,"4","Dead",0,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,23,4,"Non",7,"MORT",2019-07-05,"2019",14,-2015,"4","Dead",0,0,"Non",0
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,24,4,"Oui",4,"MORT",2019-07-05,"2019",14,-2015,"4","Dead",0,0,"Oui",1
+"B",30,"III","témoin sans taille","2017","B.III","No","No","None",2019-07-05,"cortland",3,25,4,"Oui",3,"MORT",2019-07-05,"2019",14,-2015,"4","Dead",0,0,"Oui",1
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,1,2,"Oui",0,"non",NA,"2018",15,-2016,"2","No",1,0,"Oui",1
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,2,1,"non",0,"oui",NA,"2018",15,-2016,"1","Yes",1,1,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,3,2,"non",0,"oui",NA,"2018",15,-2016,"2","Yes",1,1,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,4,2,"non",0,"non",NA,"2018",15,-2016,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,5,2,"non",0,"oui",NA,"2018",15,-2016,"2","Yes",1,1,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,6,2,"Oui",0,"oui",NA,"2018",15,-2016,"2","Yes",1,1,"Oui",1
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,7,2,"non",0,"non",NA,"2018",15,-2016,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,8,2,"non",0,"oui",NA,"2018",15,-2016,"2","Yes",1,1,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,9,2,"non",0,"non",NA,"2018",15,-2016,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,10,2,"non",0,"non",NA,"2018",15,-2016,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,11,1,"non",0,"oui",NA,"2018",15,-2016,"1","Yes",1,1,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,12,2,"non",0,"non",NA,"2018",15,-2016,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,13,3,"non",1.5,"oui",NA,"2018",15,-2016,"3","Yes",1,1,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,14,4,"non",6,"mort",NA,"2018",15,-2016,"4","Dead",0,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,15,3,"non",2.5,"oui",NA,"2018",15,-2016,"3","Yes",1,1,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,16,2,"non",0,"non",NA,"2018",15,-2016,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,17,2,"non",0,"non",NA,"2018",15,-2016,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,18,1,"non",0,"oui",NA,"2018",15,-2016,"1","Yes",1,1,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2018-06-22,"Cortland",3,19,2,"non",0,"non",NA,"2018",15,-2016,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,1,3,"Non",3,"Non",2019-07-05,"2019",15,-2015,"3","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,2,3,"Oui",2,"Non",2019-07-05,"2019",15,-2015,"3","No",1,0,"Oui",1
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,3,3,"Non",2,"Oui",2019-07-05,"2019",15,-2015,"3","Yes",1,1,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,4,4,"Oui",2,"MORT",2019-07-05,"2019",15,-2015,"4","Dead",0,0,"Oui",1
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,5,2,"Non",0,"Non",2019-07-05,"2019",15,-2015,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,6,4,"Non",4,"MORT",2019-07-05,"2019",15,-2015,"4","Dead",0,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,7,2,"Non",0,"Non",2019-07-05,"2019",15,-2015,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,8,2,"Non",0,"Non",2019-07-05,"2019",15,-2015,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,9,2,"Non",0,"Non",2019-07-05,"2019",15,-2015,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,10,2,"Oui",0,"Non",2019-07-05,"2019",15,-2015,"2","No",1,0,"Oui",1
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,11,2,"Non",0,"Non",2019-07-05,"2019",15,-2015,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,12,3,"Oui",3,"Non",2019-07-05,"2019",15,-2015,"3","No",1,0,"Oui",1
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,13,2,"Oui",0,"Non",2019-07-05,"2019",15,-2015,"2","No",1,0,"Oui",1
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,14,3,"Oui",3,"Non",2019-07-05,"2019",15,-2015,"3","No",1,0,"Oui",1
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,15,2,"Non",0,"Non",2019-07-05,"2019",15,-2015,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,16,2,"Oui",0,"Non",2019-07-05,"2019",15,-2015,"2","No",1,0,"Oui",1
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,17,4,"Non",NA,"MORT",2019-07-05,"2019",15,-2015,"4","Dead",0,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,18,2,"Non",0,"Non",2019-07-05,"2019",15,-2015,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,19,2,"Non",0,"Non",2019-07-05,"2019",15,-2015,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,20,2,"Non",0,"Non",2019-07-05,"2019",15,-2015,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,21,2,"Non",0,"Non",2019-07-05,"2019",15,-2015,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,22,3,"Oui",2,"Non",2019-07-05,"2019",15,-2015,"3","No",1,0,"Oui",1
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,23,4,"Non",3,"MORT",2019-07-05,"2019",15,-2015,"4","Dead",0,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,24,2,"Non",0,"Non",2019-07-05,"2019",15,-2015,"2","No",1,0,"Non",0
+"C",24,"III","Apogee floraison avec taille","2017","C.III","Yes","Yes","Bloom",2019-07-05,"cortland",3,25,4,"Non",4,"MORT",2019-07-05,"2019",15,-2015,"4","Dead",0,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,1,2,"non",0,"non",NA,"2018",16,-2016,"2","No",1,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,2,2,"non",0,"non",NA,"2018",16,-2016,"2","No",1,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,3,2,"Oui",0,"oui",NA,"2018",16,-2016,"2","Yes",1,1,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,4,2,"non",0,"oui",NA,"2018",16,-2016,"2","Yes",1,1,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,5,2,"non",0,"non",NA,"2018",16,-2016,"2","No",1,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,6,4,"non",5,"mort",NA,"2018",16,-2016,"4","Dead",0,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,7,2,"non",0,"non",NA,"2018",16,-2016,"2","No",1,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,8,2,"Oui",0,"oui",NA,"2018",16,-2016,"2","Yes",1,1,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,9,4,"Oui",4.5,"mort",NA,"2018",16,-2016,"4","Dead",0,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,10,2,"Oui",0,"non",NA,"2018",16,-2016,"2","No",1,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,11,4,"non",4,"mort",NA,"2018",16,-2016,"4","Dead",0,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,12,2,"Oui",0,"non",NA,"2018",16,-2016,"2","No",1,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,13,2,"non",0,"oui",NA,"2018",16,-2016,"2","Yes",1,1,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,14,2,"Oui",0,"oui",NA,"2018",16,-2016,"2","Yes",1,1,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,15,4,"non",3.5,"mort",NA,"2018",16,-2016,"4","Dead",0,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,16,2,"non",0,"oui",NA,"2018",16,-2016,"2","Yes",1,1,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,17,4,"non",5,"mort",NA,"2018",16,-2016,"4","Dead",0,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,18,4,"Oui",3,"mort",NA,"2018",16,-2016,"4","Dead",0,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,19,2,"non",0,"oui",NA,"2018",16,-2016,"2","Yes",1,1,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,20,4,"non",3,"mort",NA,"2018",16,-2016,"4","Dead",0,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,21,4,"non",2,"mort",NA,"2018",16,-2016,"4","Dead",0,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,22,4,"Oui",1.5,"mort",NA,"2018",16,-2016,"4","Dead",0,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,23,2,"Oui",0,"non",NA,"2018",16,-2016,"2","No",1,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2018-06-22,"Cortland",1,24,2,"non",0,"non",NA,"2018",16,-2016,"2","No",1,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,1,3,"Non",4,"Non",2019-07-05,"2019",16,-2015,"3","No",1,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,2,3,"Oui",7,"Non",2019-07-05,"2019",16,-2015,"3","No",1,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,3,3,"Non",4,"Non",2019-07-05,"2019",16,-2015,"3","No",1,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,4,4,"Oui",6,"MORT",2019-07-05,"2019",16,-2015,"4","Dead",0,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,5,4,"Oui",5.5,"MORT",2019-07-05,"2019",16,-2015,"4","Dead",0,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,6,4,"Oui",5,"MORT",2019-07-05,"2019",16,-2015,"4","Dead",0,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,7,1,"Non",0,"Non",2019-07-05,"2019",16,-2015,"1","No",1,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,8,4,"Non",7,"MORT",2019-07-05,"2019",16,-2015,"4","Dead",0,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,9,4,"Oui",8,"MORT",2019-07-05,"2019",16,-2015,"4","Dead",0,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,10,2,"Non",0,"Non",2019-07-05,"2019",16,-2015,"2","No",1,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,11,2,"Non",0,"Non",2019-07-05,"2019",16,-2015,"2","No",1,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,12,4,"Oui",7,"MORT",2019-07-05,"2019",16,-2015,"4","Dead",0,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,13,4,"Oui",3,"MORT",2019-07-05,"2019",16,-2015,"4","Dead",0,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,14,4,"Oui",4,"MORT",2019-07-05,"2019",16,-2015,"4","Dead",0,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,15,3,"Oui",3,"Non",2019-07-05,"2019",16,-2015,"3","No",1,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,16,4,"Oui",6,"MORT",2019-07-05,"2019",16,-2015,"4","Dead",0,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,17,3,"Non",2,"Non",2019-07-05,"2019",16,-2015,"3","No",1,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,18,4,"Oui",6,"MORT",2019-07-05,"2019",16,-2015,"4","Dead",0,0,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,19,2,"Non",0,"Non",2019-07-05,"2019",16,-2015,"2","No",1,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,20,4,"Non",5,"MORT",2019-07-05,"2019",16,-2015,"4","Dead",0,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,21,2,"Non",0,"Non",2019-07-05,"2019",16,-2015,"2","No",1,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,22,4,"Non",6,"MORT",2019-07-05,"2019",16,-2015,"4","Dead",0,0,"Non",0
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,23,2,"Oui",0,"Oui",2019-07-05,"2019",16,-2015,"2","Yes",1,1,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,24,3,"Oui",2,"Oui",2019-07-05,"2019",16,-2015,"3","Yes",1,1,"Oui",1
+"D",26,"III","Apogee floraison sans taille","2011","D.III","No","Yes","Bloom",2019-07-05,"cortland",1,25,2,"Non",0,"Non",2019-07-05,"2019",16,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,1,2,"non",0,"non",NA,"2018",17,-2016,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,2,2,"non",0,"non",NA,"2018",17,-2016,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,3,1,"non",0,"non",NA,"2018",17,-2016,"1","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,4,2,"non",0,"non",NA,"2018",17,-2016,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,5,2,"non",0,"non",NA,"2018",17,-2016,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,6,2,"non",0,"non",NA,"2018",17,-2016,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,7,2,"Oui",0,"non",NA,"2018",17,-2016,"2","No",1,0,"Oui",1
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,8,1,"non",0,"non",NA,"2018",17,-2016,"1","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,9,1,"non",0,"non",NA,"2018",17,-2016,"1","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,10,2,"non",0,"non",NA,"2018",17,-2016,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,11,2,"non",0,"oui",NA,"2018",17,-2016,"2","Yes",1,1,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,12,2,"non",0,"oui",NA,"2018",17,-2016,"2","Yes",1,1,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,13,2,"non",0,"oui",NA,"2018",17,-2016,"2","Yes",1,1,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,14,2,"non",0,"non",NA,"2018",17,-2016,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,15,2,"oui",0,"oui",NA,"2018",17,-2016,"2","Yes",1,1,"Oui",1
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,16,2,"Oui",0,"oui",NA,"2018",17,-2016,"2","Yes",1,1,"Oui",1
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2018-06-22,"Cortland",3,17,2,"non",0,"non",NA,"2018",17,-2016,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,1,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,2,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,3,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,4,2,"Oui",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Oui",1
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,5,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,6,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,7,1,"Non",0,"Non",2019-07-05,"2019",17,-2015,"1","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,8,1,"Non",0,"Non",2019-07-05,"2019",17,-2015,"1","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,9,1,"Non",0,"Non",2019-07-05,"2019",17,-2015,"1","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,10,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,11,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,12,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,13,1,"Non",0,"Non",2019-07-05,"2019",17,-2015,"1","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,14,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,15,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,16,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,17,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,18,1,"Non",0,"Non",2019-07-05,"2019",17,-2015,"1","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,19,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,20,1,"Non",0,"Non",2019-07-05,"2019",17,-2015,"1","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,21,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,22,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,23,1,"Non",0,"Non",2019-07-05,"2019",17,-2015,"1","No",1,0,"Non",0
+"E",28,"III","Apogee symptomes avec taille","2017","E.III","Yes","Yes","Symptom",2019-07-05,"cortland",3,24,2,"Non",0,"Non",2019-07-05,"2019",17,-2015,"2","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,1,4,"Oui",4,"mort",NA,"2018",18,-2016,"4","Dead",0,0,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,2,4,"non",4,"mort",NA,"2018",18,-2016,"4","Dead",0,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,3,2,"non",0,"oui",NA,"2018",18,-2016,"2","Yes",1,1,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,4,4,"Oui",3.5,"mort",NA,"2018",18,-2016,"4","Dead",0,0,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,5,2,"Oui",0,"non",NA,"2018",18,-2016,"2","No",1,0,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,6,4,"non",4.5,"mort",NA,"2018",18,-2016,"4","Dead",0,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,7,4,"Oui",6,"mort",NA,"2018",18,-2016,"4","Dead",0,0,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,8,2,"non",0,"oui",NA,"2018",18,-2016,"2","Yes",1,1,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,9,4,"Oui",8,"mort",NA,"2018",18,-2016,"4","Dead",0,0,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,10,4,"Oui",2.5,"mort",NA,"2018",18,-2016,"4","Dead",0,0,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,11,4,"non",2.5,"mort",NA,"2018",18,-2016,"4","Dead",0,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,12,2,"non",0,"non",NA,"2018",18,-2016,"2","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,13,4,"non",1.5,"mort",NA,"2018",18,-2016,"4","Dead",0,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,14,4,"Oui",1,"mort",NA,"2018",18,-2016,"4","Dead",0,0,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,15,2,"non",0,"oui",NA,"2018",18,-2016,"2","Yes",1,1,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,16,1,"non",0,"oui",NA,"2018",18,-2016,"1","Yes",1,1,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,17,2,"non",0,"non",NA,"2018",18,-2016,"2","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,18,1,"non",0,"oui",NA,"2018",18,-2016,"1","Yes",1,1,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,19,2,"non",0,"oui",NA,"2018",18,-2016,"2","Yes",1,1,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,20,2,"Oui",0,"oui",NA,"2018",18,-2016,"2","Yes",1,1,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,21,1,"non",0,"oui",NA,"2018",18,-2016,"1","Yes",1,1,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,22,2,"Oui",0,"oui",NA,"2018",18,-2016,"2","Yes",1,1,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,23,2,"non",0,"oui",NA,"2018",18,-2016,"2","Yes",1,1,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,24,2,"non",0,"non",NA,"2018",18,-2016,"2","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2018-06-22,"Cortland",1,25,1,"non",0,"oui",NA,"2018",18,-2016,"1","Yes",1,1,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,1,2,"Non",0,"Non",2019-07-05,"2019",18,-2015,"2","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,2,3,"Oui",2,"Non",2019-07-05,"2019",18,-2015,"3","No",1,0,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,3,4,"Non",12,"MORT",2019-07-05,"2019",18,-2015,"4","Dead",0,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,4,3,"Non",7,"Non",2019-07-05,"2019",18,-2015,"3","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,5,2,"Non",0,"Non",2019-07-05,"2019",18,-2015,"2","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,6,3,"Oui",4,"Non",2019-07-05,"2019",18,-2015,"3","No",1,0,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,7,3,"Oui",2,"Non",2019-07-05,"2019",18,-2015,"3","No",1,0,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,8,4,"Non",5,"MORT",2019-07-05,"2019",18,-2015,"4","Dead",0,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,9,2,"Oui",0,"Non",2019-07-05,"2019",18,-2015,"2","No",1,0,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,10,2,"Non",0,"Non",2019-07-05,"2019",18,-2015,"2","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,11,3,"Oui",3,"Non",2019-07-05,"2019",18,-2015,"3","No",1,0,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,12,3,"Non",4,"Non",2019-07-05,"2019",18,-2015,"3","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,13,2,"Non",0,"Non",2019-07-05,"2019",18,-2015,"2","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,14,2,"Non",0,"Non",2019-07-05,"2019",18,-2015,"2","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,15,3,"Non",4,"Non",2019-07-05,"2019",18,-2015,"3","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,16,1,"Non",0,"Non",2019-07-05,"2019",18,-2015,"1","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,17,2,"Non",0,"Non",2019-07-05,"2019",18,-2015,"2","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,18,4,"Non",4,"MORT",2019-07-05,"2019",18,-2015,"4","Dead",0,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,19,2,"Non",0,"Non",2019-07-05,"2019",18,-2015,"2","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,20,2,"Non",0,"Non",2019-07-05,"2019",18,-2015,"2","No",1,0,"Non",0
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,21,4,"Oui",6,"MORT",2019-07-05,"2019",18,-2015,"4","Dead",0,0,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,22,4,"Oui",1,"MORT",2019-07-05,"2019",18,-2015,"4","Dead",0,0,"Oui",1
+"F",24,"III","Apogee symptomes sans taille","2011","F.III","No","Yes","Symptom",2019-07-05,"cortland",1,23,4,"Non",5,"MORT",2019-07-05,"2019",18,-2015,"4","Dead",0,0,"Non",0
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,1,2,"Oui",0,"non",NA,"2018",19,-2016,"2","No",1,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,2,3,"non",1,"non",NA,"2018",19,-2016,"3","No",1,0,"Non",0
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,3,3,"Oui",2,"oui",NA,"2018",19,-2016,"3","Yes",1,1,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,4,2,"Oui",0,"oui",NA,"2018",19,-2016,"2","Yes",1,1,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,5,3,"non",1,"non",NA,"2018",19,-2016,"3","No",1,0,"Non",0
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,6,2,"non",0,"oui",NA,"2018",19,-2016,"2","Yes",1,1,"Non",0
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,7,4,"Oui",4,"mort",NA,"2018",19,-2016,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,8,3,"Oui",3,"oui",NA,"2018",19,-2016,"3","Yes",1,1,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,9,2,"Oui",0,"non",NA,"2018",19,-2016,"2","No",1,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,10,2,"Oui",0,"non",NA,"2018",19,-2016,"2","No",1,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,11,3,"Oui",2.5,"oui",NA,"2018",19,-2016,"3","Yes",1,1,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,12,2,"non",0,"oui",NA,"2018",19,-2016,"2","Yes",1,1,"Non",0
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,13,3,"Oui",2,"non",NA,"2018",19,-2016,"3","No",1,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,14,3,"Oui",3,"oui",NA,"2018",19,-2016,"3","Yes",1,1,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,15,2,"Oui",0,"oui",NA,"2018",19,-2016,"2","Yes",1,1,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,16,2,"non",0,"oui",NA,"2018",19,-2016,"2","Yes",1,1,"Non",0
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,17,2,"Oui",0,"oui",NA,"2018",19,-2016,"2","Yes",1,1,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,18,4,"Oui",2,"mort",NA,"2018",19,-2016,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,19,3,"Oui",2.5,"oui",NA,"2018",19,-2016,"3","Yes",1,1,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,20,2,"Oui",0,"non",NA,"2018",19,-2016,"2","No",1,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,21,2,"Oui",0,"non",NA,"2018",19,-2016,"2","No",1,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,22,3,"Oui",1.5,"non",NA,"2018",19,-2016,"3","No",1,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,23,2,"non",0,"oui",NA,"2018",19,-2016,"2","Yes",1,1,"Non",0
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2018-06-22,"Cortland",3,24,2,"Oui",0,"non",NA,"2018",19,-2016,"2","No",1,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,1,4,"Oui",15,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,2,4,"Oui",12,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,3,4,"Non",6,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Non",0
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,4,4,"Oui",8,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,5,4,"Oui",11,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,6,4,"Oui",8,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,7,4,"Non",6,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Non",0
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,8,3,"Oui",2,"Non",2019-07-05,"2019",19,-2015,"3","No",1,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,9,4,"Oui",8.5,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,10,4,"Oui",8,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,11,3,"Oui",3,"Non",2019-07-05,"2019",19,-2015,"3","No",1,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,12,4,"Oui",7,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,13,4,"Non",5,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Non",0
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,14,4,"Oui",10,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,15,4,"Oui",5.5,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,16,4,"Oui",4,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,17,4,"Oui",11,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,18,4,"Oui",12,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,19,4,"Oui",10,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,20,4,"Oui",7,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,21,4,"Oui",7,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,22,4,"Non",6,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Non",0
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,23,4,"Oui",17,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"A",38,"IV","témoin avec taille","2017","A.IV","Yes","No","None",2019-07-05,"cortland",3,24,4,"Oui",6.5,"MORT",2019-07-05,"2019",19,-2015,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,1,2,"Oui",0,"oui",NA,"2018",20,-2016,"2","Yes",1,1,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,2,4,"Oui",4,"mort",NA,"2018",20,-2016,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,3,4,"Oui",4.5,"mort",NA,"2018",20,-2016,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,4,4,"Oui",8,"mort",NA,"2018",20,-2016,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,5,4,"Oui",7,"mort",NA,"2018",20,-2016,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,6,2,"Oui",0,"non",NA,"2018",20,-2016,"2","No",1,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,7,4,"Oui",5,"mort",NA,"2018",20,-2016,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,8,4,"Oui",6,"mort",NA,"2018",20,-2016,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,9,3,"Oui",3,"non",NA,"2018",20,-2016,"3","No",1,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,10,3,"Oui",1.5,"non",NA,"2018",20,-2016,"3","No",1,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,11,4,"Oui",9,"mort",NA,"2018",20,-2016,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,12,2,"non",0,"oui",NA,"2018",20,-2016,"2","Yes",1,1,"Non",0
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,13,2,"non",0,"non",NA,"2018",20,-2016,"2","No",1,0,"Non",0
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,14,2,"non",0,"non",NA,"2018",20,-2016,"2","No",1,0,"Non",0
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,15,4,"Oui",11.5,"mort",NA,"2018",20,-2016,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,16,2,"non",0,"oui",NA,"2018",20,-2016,"2","Yes",1,1,"Non",0
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,17,2,"Oui",0,"oui",NA,"2018",20,-2016,"2","Yes",1,1,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,18,4,"Oui",4,"mort",NA,"2018",20,-2016,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,19,4,"Oui",4.5,"mort",NA,"2018",20,-2016,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,20,3,"non",2.5,"non",NA,"2018",20,-2016,"3","No",1,0,"Non",0
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2018-06-22,"Cortland",1,21,4,"Oui",3.5,"mort",NA,"2018",20,-2016,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,1,4,"Oui",4,"MORT",2019-07-05,"2019",20,-2015,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,2,3,"Non",3,"Non",2019-07-05,"2019",20,-2015,"3","No",1,0,"Non",0
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,3,4,"Non",5,"MORT",2019-07-05,"2019",20,-2015,"4","Dead",0,0,"Non",0
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,4,4,"Oui",7,"MORT",2019-07-05,"2019",20,-2015,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,5,3,"Oui",2,"Non",2019-07-05,"2019",20,-2015,"3","No",1,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,6,3,"Non",4,"Non",2019-07-05,"2019",20,-2015,"3","No",1,0,"Non",0
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,7,4,"Oui",11,"MORT",2019-07-05,"2019",20,-2015,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,8,3,"Oui",5,"Non",2019-07-05,"2019",20,-2015,"3","No",1,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,9,3,"Non",3,"Non",2019-07-05,"2019",20,-2015,"3","No",1,0,"Non",0
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,10,4,"Non",5,"MORT",2019-07-05,"2019",20,-2015,"4","Dead",0,0,"Non",0
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,11,3,"Non",4,"Non",2019-07-05,"2019",20,-2015,"3","No",1,0,"Non",0
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,12,4,"Oui",16,"MORT",2019-07-05,"2019",20,-2015,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,13,4,"Oui",7,"MORT",2019-07-05,"2019",20,-2015,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,14,4,"Oui",13,"MORT",2019-07-05,"2019",20,-2015,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,15,3,"Non",4,"Non",2019-07-05,"2019",20,-2015,"3","No",1,0,"Non",0
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,16,3,"Non",4,"Non",2019-07-05,"2019",20,-2015,"3","No",1,0,"Non",0
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,17,3,"Oui",4,"Non",2019-07-05,"2019",20,-2015,"3","No",1,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,18,1,"Non",0,"Oui",2019-07-05,"2019",20,-2015,"1","Yes",1,1,"Non",0
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,19,4,"Non",3.5,"MORT",2019-07-05,"2019",20,-2015,"4","Dead",0,0,"Non",0
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,20,3,"Oui",7,"Non",2019-07-05,"2019",20,-2015,"3","No",1,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,21,4,"Oui",3,"MORT",2019-07-05,"2019",20,-2015,"4","Dead",0,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,22,3,"Oui",4,"Non",2019-07-05,"2019",20,-2015,"3","No",1,0,"Oui",1
+"B",44,"IV","témoin sans taille","2011","B.IV","No","No","None",2019-07-05,"cortland",1,23,3,"Oui",3,"Non",2019-07-05,"2019",20,-2015,"3","No",1,0,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,1,1,"non",0,"oui",NA,"2018",21,-2016,"1","Yes",1,1,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,2,1,"Oui",0,"oui",NA,"2018",21,-2016,"1","Yes",1,1,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,3,2,"Oui",0,"oui",NA,"2018",21,-2016,"2","Yes",1,1,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,4,1,"Oui",0,"oui",NA,"2018",21,-2016,"1","Yes",1,1,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,5,4,"Oui",4,"mort",NA,"2018",21,-2016,"4","Dead",0,0,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,6,1,"non",0,"oui",NA,"2018",21,-2016,"1","Yes",1,1,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,7,2,"non",0,"oui",NA,"2018",21,-2016,"2","Yes",1,1,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,8,1,"non",0,"oui",NA,"2018",21,-2016,"1","Yes",1,1,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,9,2,"non",0,"oui",NA,"2018",21,-2016,"2","Yes",1,1,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,10,1,"Oui",0,"oui",NA,"2018",21,-2016,"1","Yes",1,1,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,11,1,"Oui",0,"oui",NA,"2018",21,-2016,"1","Yes",1,1,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,12,2,"Oui",0,"oui",NA,"2018",21,-2016,"2","Yes",1,1,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,13,2,"non",0,"oui",NA,"2018",21,-2016,"2","Yes",1,1,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,14,4,"Oui",5,"mort",NA,"2018",21,-2016,"4","Dead",0,0,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,15,2,"Oui",0,"oui",NA,"2018",21,-2016,"2","Yes",1,1,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,16,1,"non",0,"oui",NA,"2018",21,-2016,"1","Yes",1,1,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,17,1,"non",0,"oui",NA,"2018",21,-2016,"1","Yes",1,1,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,18,1,"non",0,"oui",NA,"2018",21,-2016,"1","Yes",1,1,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,19,2,"non",0,"oui",NA,"2018",21,-2016,"2","Yes",1,1,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,20,1,"non",0,"oui",NA,"2018",21,-2016,"1","Yes",1,1,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,21,1,"non",0,"oui",NA,"2018",21,-2016,"1","Yes",1,1,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,22,1,"Oui",0,"oui",NA,"2018",21,-2016,"1","Yes",1,1,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,23,1,"Oui",0,"non",NA,"2018",21,-2016,"1","No",1,0,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2018-06-22,"Cortland",1,24,1,"non",0,"oui",NA,"2018",21,-2016,"1","Yes",1,1,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,1,2,"Non",0,"Non",2019-07-05,"2019",21,-2015,"2","No",1,0,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,2,1,"Oui",0,"Oui",2019-07-05,"2019",21,-2015,"1","Yes",1,1,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,3,2,"Oui",0,"Non",2019-07-05,"2019",21,-2015,"2","No",1,0,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,4,1,"Non",0,"Non",2019-07-05,"2019",21,-2015,"1","No",1,0,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,5,2,"Non",0,"Non",2019-07-05,"2019",21,-2015,"2","No",1,0,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,6,3,"Non",4,"Non",2019-07-05,"2019",21,-2015,"3","No",1,0,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,7,2,"Non",0,"Non",2019-07-05,"2019",21,-2015,"2","No",1,0,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,8,3,"Non",6,"Non",2019-07-05,"2019",21,-2015,"3","No",1,0,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,9,2,"Non",0,"Non",2019-07-05,"2019",21,-2015,"2","No",1,0,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,10,3,"Oui",3,"Non",2019-07-05,"2019",21,-2015,"3","No",1,0,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,11,4,"Oui",3,"MORT",2019-07-05,"2019",21,-2015,"4","Dead",0,0,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,12,3,"Oui",3,"Non",2019-07-05,"2019",21,-2015,"3","No",1,0,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,13,3,"Oui",6,"Non",2019-07-05,"2019",21,-2015,"3","No",1,0,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,14,4,"Non",6,"MORT",2019-07-05,"2019",21,-2015,"4","Dead",0,0,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,15,4,"Oui",10,"MORT",2019-07-05,"2019",21,-2015,"4","Dead",0,0,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,16,4,"Oui",6,"MORT",2019-07-05,"2019",21,-2015,"4","Dead",0,0,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,17,4,"Oui",2,"MORT",2019-07-05,"2019",21,-2015,"4","Dead",0,0,"Oui",1
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,18,2,"Non",0,"Oui",2019-07-05,"2019",21,-2015,"2","Yes",1,1,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,19,0,"Non",0,"Non",2019-07-05,"2019",21,-2015,"0","No",1,0,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,20,2,"Non",0,"Non",2019-07-05,"2019",21,-2015,"2","No",1,0,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,21,2,"Non",0,"Non",2019-07-05,"2019",21,-2015,"2","No",1,0,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,22,2,"Non",0,"Non",2019-07-05,"2019",21,-2015,"2","No",1,0,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,23,3,"Non",4,"Non",2019-07-05,"2019",21,-2015,"3","No",1,0,"Non",0
+"C",42,"IV","Apogee floraison avec taille","2011","C.IV","Yes","Yes","Bloom",2019-07-05,"cortland",1,24,2,"Non",0,"Non",2019-07-05,"2019",21,-2015,"2","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,1,2,"non",0,"oui",NA,"2018",22,-2016,"2","Yes",1,1,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,2,4,"Oui",3,"mort",NA,"2018",22,-2016,"4","Dead",0,0,"Oui",1
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,3,4,"non",2,"mort",NA,"2018",22,-2016,"4","Dead",0,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,4,2,"non",0,"oui",NA,"2018",22,-2016,"2","Yes",1,1,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,5,2,"non",0,"non",NA,"2018",22,-2016,"2","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,6,2,"non",0,"oui",NA,"2018",22,-2016,"2","Yes",1,1,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,7,2,"non",0,"non",NA,"2018",22,-2016,"2","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,8,2,"non",0,"non",NA,"2018",22,-2016,"2","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,9,3,"Oui",2,"oui",NA,"2018",22,-2016,"3","Yes",1,1,"Oui",1
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,10,2,"Oui",0,"oui",NA,"2018",22,-2016,"2","Yes",1,1,"Oui",1
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,11,3,"non",1,"non",NA,"2018",22,-2016,"3","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,12,2,"non",0,"non",NA,"2018",22,-2016,"2","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,13,2,"non",0,"non",NA,"2018",22,-2016,"2","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,14,2,"non",0,"non",NA,"2018",22,-2016,"2","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,15,2,"non",0,"non",NA,"2018",22,-2016,"2","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,16,2,"non",0,"non",NA,"2018",22,-2016,"2","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,17,2,"non",0,"oui",NA,"2018",22,-2016,"2","Yes",1,1,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,18,2,"non",0,"oui",NA,"2018",22,-2016,"2","Yes",1,1,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,19,2,"non",0,"oui",NA,"2018",22,-2016,"2","Yes",1,1,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,20,4,"Oui",6.5,"mort",NA,"2018",22,-2016,"4","Dead",0,0,"Oui",1
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,21,2,"Oui",0,"oui",NA,"2018",22,-2016,"2","Yes",1,1,"Oui",1
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,22,2,"Oui",0,"oui",NA,"2018",22,-2016,"2","Yes",1,1,"Oui",1
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2018-06-22,"Cortland",1,23,4,"non",1.5,"mort",NA,"2018",22,-2016,"4","Dead",0,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,1,1,"Oui",0,"Non",2019-07-05,"2019",22,-2015,"1","No",1,0,"Oui",1
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,2,4,"Oui",5,"MORT",2019-07-05,"2019",22,-2015,"4","Dead",0,0,"Oui",1
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,3,3,"Non",4,"Non",2019-07-05,"2019",22,-2015,"3","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,4,3,"Oui",3,"Non",2019-07-05,"2019",22,-2015,"3","No",1,0,"Oui",1
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,5,2,"Non",0,"Non",2019-07-05,"2019",22,-2015,"2","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,6,3,"Oui",3,"Non",2019-07-05,"2019",22,-2015,"3","No",1,0,"Oui",1
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,7,3,"Non",3,"Non",2019-07-05,"2019",22,-2015,"3","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,8,4,"Non",5,"MORT",2019-07-05,"2019",22,-2015,"4","Dead",0,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,9,3,"Non",3,"Non",2019-07-05,"2019",22,-2015,"3","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,10,3,"Non",4,"Non",2019-07-05,"2019",22,-2015,"3","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,11,2,"Non",0,"Non",2019-07-05,"2019",22,-2015,"2","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,12,4,"Oui",8,"MORT",2019-07-05,"2019",22,-2015,"4","Dead",0,0,"Oui",1
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,13,3,"Non",1,"Non",2019-07-05,"2019",22,-2015,"3","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,14,2,"Non",0,"Non",2019-07-05,"2019",22,-2015,"2","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,15,1,"Oui",0,"Non",2019-07-05,"2019",22,-2015,"1","No",1,0,"Oui",1
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,16,3,"Non",4,"Non",2019-07-05,"2019",22,-2015,"3","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,17,2,"Non",0,"Non",2019-07-05,"2019",22,-2015,"2","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,18,2,"Non",0,"Non",2019-07-05,"2019",22,-2015,"2","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,19,3,"Non",2,"Non",2019-07-05,"2019",22,-2015,"3","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,20,3,"Non",3,"Non",2019-07-05,"2019",22,-2015,"3","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,21,2,"Non",0,"Non",2019-07-05,"2019",22,-2015,"2","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,22,3,"Non",2,"Non",2019-07-05,"2019",22,-2015,"3","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,23,3,"Non",3,"Non",2019-07-05,"2019",22,-2015,"3","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,24,1,"Non",0,"Non",2019-07-05,"2019",22,-2015,"1","No",1,0,"Non",0
+"D",36,"IV","Apogee floraison sans taille","2011","D.IV","No","Yes","Bloom",2019-07-05,"cortland",1,25,3,"Oui",5,"Non",2019-07-05,"2019",22,-2015,"3","No",1,0,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,1,2,"non",0,"non",NA,"2018",23,-2016,"2","No",1,0,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,2,4,"non",4,"mort",NA,"2018",23,-2016,"4","Dead",0,0,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,3,2,"non",0,"non",NA,"2018",23,-2016,"2","No",1,0,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,4,2,"non",0,"non",NA,"2018",23,-2016,"2","No",1,0,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,5,2,"non",0,"oui",NA,"2018",23,-2016,"2","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,6,2,"non",0,"oui",NA,"2018",23,-2016,"2","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,7,2,"non",0,"non",NA,"2018",23,-2016,"2","No",1,0,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,8,1,"non",0,"oui",NA,"2018",23,-2016,"1","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,9,1,"non",0,"oui",NA,"2018",23,-2016,"1","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,10,2,"non",0,"oui",NA,"2018",23,-2016,"2","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,11,2,"Oui",0,"oui",NA,"2018",23,-2016,"2","Yes",1,1,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,12,2,"non",0,"oui",NA,"2018",23,-2016,"2","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,13,2,"non",0,"oui",NA,"2018",23,-2016,"2","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,14,1,"Oui",0,"oui",NA,"2018",23,-2016,"1","Yes",1,1,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,15,2,"Oui",0,"oui",NA,"2018",23,-2016,"2","Yes",1,1,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,16,2,"non",0,"oui",NA,"2018",23,-2016,"2","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,17,2,"non",0,"non",NA,"2018",23,-2016,"2","No",1,0,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,18,1,"non",0,"oui",NA,"2018",23,-2016,"1","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,19,2,"non",0,"oui",NA,"2018",23,-2016,"2","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,20,2,"non",0,"oui",NA,"2018",23,-2016,"2","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,21,2,"Oui",0,"oui",NA,"2018",23,-2016,"2","Yes",1,1,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,22,3,"Oui",1.5,"oui",NA,"2018",23,-2016,"3","Yes",1,1,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,23,2,"non",0,"oui",NA,"2018",23,-2016,"2","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,24,2,"non",0,"oui",NA,"2018",23,-2016,"2","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2018-06-22,"Cortland",1,25,2,"Oui",0,"non",NA,"2018",23,-2016,"2","No",1,0,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,1,4,"Non",4,"MORT",2019-07-05,"2019",23,-2015,"4","Dead",0,0,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,2,3,"Oui",4,"Oui",2019-07-05,"2019",23,-2015,"3","Yes",1,1,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,3,4,"Oui",7,"MORT",2019-07-05,"2019",23,-2015,"4","Dead",0,0,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,4,4,"Oui",8,"MORT",2019-07-05,"2019",23,-2015,"4","Dead",0,0,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,5,2,"Oui",0,"Oui",2019-07-05,"2019",23,-2015,"2","Yes",1,1,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,6,4,"Oui",5,"MORT",2019-07-05,"2019",23,-2015,"4","Dead",0,0,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,7,3,"Oui",3,"Non",2019-07-05,"2019",23,-2015,"3","No",1,0,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,8,2,"Non",0,"Oui",2019-07-05,"2019",23,-2015,"2","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,9,4,"Oui",5,"MORT",2019-07-05,"2019",23,-2015,"4","Dead",0,0,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,10,2,"Non",0,"Non",2019-07-05,"2019",23,-2015,"2","No",1,0,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,11,4,"Oui",4.5,"MORT",2019-07-05,"2019",23,-2015,"4","Dead",0,0,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,12,3,"Non",3,"Oui",2019-07-05,"2019",23,-2015,"3","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,13,4,"Non",4,"MORT",2019-07-05,"2019",23,-2015,"4","Dead",0,0,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,14,4,"Non",4.5,"MORT",2019-07-05,"2019",23,-2015,"4","Dead",0,0,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,15,2,"Non",0,"Non",2019-07-05,"2019",23,-2015,"2","No",1,0,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,16,4,"Oui",3,"MORT",2019-07-05,"2019",23,-2015,"4","Dead",0,0,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,17,2,"Non",0,"Oui",2019-07-05,"2019",23,-2015,"2","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,18,4,"Non",5,"MORT",2019-07-05,"2019",23,-2015,"4","Dead",0,0,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,19,4,"Oui",6,"MORT",2019-07-05,"2019",23,-2015,"4","Dead",0,0,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,20,2,"Oui",0,"Non",2019-07-05,"2019",23,-2015,"2","No",1,0,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,21,4,"Non",6,"MORT",2019-07-05,"2019",23,-2015,"4","Dead",0,0,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,22,4,"Oui",8,"MORT",2019-07-05,"2019",23,-2015,"4","Dead",0,0,"Oui",1
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,23,3,"Non",4,"Non",2019-07-05,"2019",23,-2015,"3","No",1,0,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,24,3,"Non",4,"Oui",2019-07-05,"2019",23,-2015,"3","Yes",1,1,"Non",0
+"E",38,"IV","Apogee symptomes avec taille","2011","E.IV","Yes","Yes","Symptom",2019-07-05,"cortland",1,25,4,"Oui",4,"MORT",2019-07-05,"2019",23,-2015,"4","Dead",0,0,"Oui",1
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,1,1,"non",0,"non",NA,"2018",24,-2016,"1","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,2,2,"non",0,"non",NA,"2018",24,-2016,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,3,2,"non",0,"non",NA,"2018",24,-2016,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,4,1,"non",0,"non",NA,"2018",24,-2016,"1","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,5,2,"non",0,"non",NA,"2018",24,-2016,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,6,2,"non",0,"non",NA,"2018",24,-2016,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,7,2,"non",0,"non",NA,"2018",24,-2016,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,8,2,"non",0,"oui",NA,"2018",24,-2016,"2","Yes",1,1,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,9,2,"non",0,"oui",NA,"2018",24,-2016,"2","Yes",1,1,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,10,2,"non",0,"oui",NA,"2018",24,-2016,"2","Yes",1,1,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,11,1,"non",0,"non",NA,"2018",24,-2016,"1","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,12,1,"non",0,"non",NA,"2018",24,-2016,"1","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,13,2,"Oui",0,"non",NA,"2018",24,-2016,"2","No",1,0,"Oui",1
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,14,2,"non",0,"non",NA,"2018",24,-2016,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,15,4,"non",7,"mort",NA,"2018",24,-2016,"4","Dead",0,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,16,2,"Oui",0,"non",NA,"2018",24,-2016,"2","No",1,0,"Oui",1
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,17,3,"non",2,"oui",NA,"2018",24,-2016,"3","Yes",1,1,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,18,1,"non",0,"non",NA,"2018",24,-2016,"1","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,19,2,"Oui",0,"non",NA,"2018",24,-2016,"2","No",1,0,"Oui",1
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,20,2,"non",0,"non",NA,"2018",24,-2016,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2018-06-22,"Cortland",3,21,2,"non",0,"non",NA,"2018",24,-2016,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,1,2,"Oui",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Oui",1
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,2,3,"Oui",2,"Non",2019-07-05,"2019",24,-2015,"3","No",1,0,"Oui",1
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,3,3,"Oui",3,"Non",2019-07-05,"2019",24,-2015,"3","No",1,0,"Oui",1
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,4,4,"Oui",4,"MORT",2019-07-05,"2019",24,-2015,"4","Dead",0,0,"Oui",1
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,5,3,"Non",0.5,"Non",2019-07-05,"2019",24,-2015,"3","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,6,3,"Oui",2,"Non",2019-07-05,"2019",24,-2015,"3","No",1,0,"Oui",1
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,7,2,"Non",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,8,1,"Non",0,"Non",2019-07-05,"2019",24,-2015,"1","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,9,2,"Non",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,10,3,"Oui",0.5,"Non",2019-07-05,"2019",24,-2015,"3","No",1,0,"Oui",1
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,11,4,"Non",5,"MORT",2019-07-05,"2019",24,-2015,"4","Dead",0,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,12,2,"Non",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,13,2,"Non",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,14,2,"Non",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,15,2,"Non",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,16,3,"Non",2,"Non",2019-07-05,"2019",24,-2015,"3","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,17,2,"Non",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,18,2,"Oui",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Oui",1
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,19,2,"Non",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,20,2,"Non",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,21,2,"Non",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,22,2,"Non",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,23,2,"Non",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,24,2,"Non",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Non",0
+"F",36,"IV","Apogee symptomes sans taille","2017","F.IV","No","Yes","Symptom",2019-07-05,"cortland",3,25,2,"Non",0,"Non",2019-07-05,"2019",24,-2015,"2","No",1,0,"Non",0
