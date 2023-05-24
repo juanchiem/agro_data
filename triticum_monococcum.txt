@@ -1,4 +1,4 @@
-ID    Weight   Length Diameter  Moisture  Hardness
+ID    weight   length diameter  moisture  hardness
   1   30.15    3.27   2.09      10.27     -16.63
   2   35.51    3.65   2.34      10.61      -8.27
   3   29.16    3.36   2.15      10.27     -21.45
