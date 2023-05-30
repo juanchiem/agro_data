@@ -45,5 +45,7 @@ https://dzchilds.github.io/stats-for-bio/
 
 [guide-to-field-trial-spatial-analysis](https://idahoagstats.github.io/guide-to-field-trial-spatial-analysis/)
 
+[sample_size_r_module](https://med.und.edu/research/daccota/_files/pdfs/berdc_resource_pdfs/sample_size_r_module.pdf)
+
 
 
