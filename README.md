@@ -45,8 +45,20 @@ https://dzchilds.github.io/stats-for-bio/
 
 [guide-to-field-trial-spatial-analysis](https://idahoagstats.github.io/guide-to-field-trial-spatial-analysis/)
 
-[sample_size_r_module](https://med.und.edu/research/daccota/_files/pdfs/berdc_resource_pdfs/sample_size_r_module.pdf)
+Effect size
+https://www.youtube.com/watch?v=9LVD9oLg1A0&list=PLM-piyaPQYiZ5UxJMvzGlDrDHSRK2IbP6&index=22
+https://www.youtube.com/watch?v=tTgouKMz-eI&list=PLM-piyaPQYiZ5UxJMvzGlDrDHSRK2IbP6&index=21
 
+## Power con R
+http://staff.pubhealth.ku.dk/~tag/Teaching/share/R-tutorials/Basic-statistics/Power.html
+https://www.rpubs.com/Mareiza/378540 
+https://www.statmethods.net/stats/power.html 
+https://cran.r-project.org/web/packages/pwr/vignettes/pwr-vignette.html 
+https://stats.idre.ucla.edu/r/dae/one-way-anova-power-analysis/
+https://rdrr.io/cran/pwr2/man/pwr2-package.html  
+https://homepage.divms.uiowa.edu/~rlenth/Power/
+https://psfaculty.plantsciences.ucdavis.edu/agr205/Lectures/2010%20Iago/Topic%206/RCBD%20Power%20Analysis.pdf 
+[sample_size_r_module](https://med.und.edu/research/daccota/_files/pdfs/berdc_resource_pdfs/sample_size_r_module.pdf)
 [sample_size_flax](http://www.unh.edu/halelab/ANFS933/supp_mats/RCBD_Power_Analysis.pdf)
 
 
