@@ -41,6 +41,8 @@ https://dzchilds.github.io/stats-for-bio/
 
 [regresion_lineal_multiple](https://www.cienciadedatos.net/documentos/25_regresion_lineal_multiple.html#Introducci%C3%B3n)
 
+[Statistical Design and Analysis of Biological Experiments](https://n.ethz.ch/~kahans/doe2021/)
+
 
 
 
