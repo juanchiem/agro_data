@@ -47,5 +47,6 @@ https://dzchilds.github.io/stats-for-bio/
 
 [sample_size_r_module](https://med.und.edu/research/daccota/_files/pdfs/berdc_resource_pdfs/sample_size_r_module.pdf)
 
+[sample_size_flax](http://www.unh.edu/halelab/ANFS933/supp_mats/RCBD_Power_Analysis.pdf)
 
 
