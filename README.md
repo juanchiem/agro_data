@@ -43,6 +43,7 @@ https://dzchilds.github.io/stats-for-bio/
 
 [Statistical Design and Analysis of Biological Experiments](https://n.ethz.ch/~kahans/doe2021/)
 
+[guide-to-field-trial-spatial-analysis](https://idahoagstats.github.io/guide-to-field-trial-spatial-analysis/)
 
 
 
